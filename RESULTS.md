@@ -169,6 +169,45 @@ qwen-fast) daje lepszą pewność niż deklaracja inline? Oceniane: odpowiedzi C
 - Ograniczenie: testowany wyłącznie samo-sędzia (ten sam model). Sędzia mocniejszy od
   ocenianego (klasyczny układ LLM-as-judge) to inna konfiguracja - tu niemierzona.
 
+Przepływ i werdykt w jednym obrazku:
+
+```mermaid
+flowchart TD
+    S["40 zdań prawda/fałsz<br/>z ground truth"] --> M1
+    M1["PRZEBIEG 1 - qwen3.6<br/>odpowiedź TAK/NIE"] --> A
+    A["odpowiedź do oceny<br/>37 poprawnych · 3 błędne<br/>(s13 · s15 · s37)"]
+
+    A --> J{"PRZEBIEG 2<br/>sędzia = TEN SAM model"}
+    J -->|"C4a: zadeklaruj 0..1"| D1
+    J -->|"C4b: głosuj TAK/NIE × 10"| D2
+
+    D1["znów 3 ulubione wartości<br/>0.0 · 0.95 · 1.0<br/>92/111 deklaracji = 1.0<br/><b>Brier 0.117</b>"]
+    D2["frakcja głosów sędziego<br/><b>Brier 0.078</b>"]
+
+    R1["bez sędziego, deklaracja inline (C1)<br/>Brier 0.048"] -.->|"referencja"| V
+    R2["bez sędziego, głosowanie<br/>nad pytaniem (C3)<br/><b>Brier 0.031 - najlepsze</b>"] -.->|"referencja"| V
+
+    D1 --> V{{"WERDYKT:<br/>każda droga przez sędziego<br/>GORSZA niż bez niego"}}
+    D2 --> V
+
+    V --> W1["błędna odpowiedź s15 (Wołga)<br/>pobłogosławiona: 8/10 głosów,<br/>deklaracje 1.0"]
+    V --> W2["POPRAWNA odpowiedź s16 (Australia)<br/>odrzucona 0/10<br/>(głosowanie nad pytaniem: uczciwe 7/10)"]
+
+    W1 --> K["ten sam model = te same luki wiedzy<br/>+ nowy szum ujęcia<br/>(format promptu zmienia rozkład odpowiedzi)"]
+    W2 --> K
+    K --> BP["sędzia ma sens, gdy wnosi<br/>INNĄ wiedzę (mocniejszy model)<br/>albo INNE dowody (dostęp do źródeł)"]
+
+    classDef bad fill:#7f1d1d,stroke:#ef4444,color:#fef2f2
+    classDef good fill:#14532d,stroke:#22c55e,color:#f0fdf4
+    classDef neutral fill:#1e293b,stroke:#64748b,color:#f1f5f9
+    classDef verdict fill:#78350f,stroke:#f59e0b,color:#fffbeb
+
+    class D1,D2,W1,W2 bad
+    class R2,BP good
+    class S,M1,A,J,R1,K neutral
+    class V verdict
+```
+
 ## Wnioski praktyczne (implikacje inżynierskie pomiaru)
 
 - Skoro wsparcie rozkładu to {0.95, 0.99, 1.0}, każdy próg poniżej 0.95 (np. typowe
