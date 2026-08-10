@@ -105,6 +105,10 @@ trafność to 95% - a błędy przychodzą właśnie z confidence 0.95-1.0:
 
 Brier score (niżej = lepiej): C1 = 0.0483, C2 = 0.0557.
 
+Trafność odpowiedzi per deklarowana wartość (C1+C2 łącznie, 240 deklaracji): przy 0.95 -
+61/68 (90%); przy 0.98 - 4/4; przy 0.99 - 13/13; przy 1.0 - 149/155 (96%). Wartość 0.95
+niesie więc co najwyżej słaby sygnał podwyższonego ryzyka, nie miarę.
+
 ## Wynik 3: frakcja głosów mierzy to, czego deklaracja nie widzi
 
 C3 (frakcja TAK z k=10 sampli): Brier = **0.0312** - o ~35% lepszy niż C1, bez pytania
@@ -123,9 +127,13 @@ modelu o pewność w ogóle.
   pewny, w 100% zgodny błąd; to główny składnik Briera C3. Sampling ujawnia niepewność
   tylko tam, gdzie ona istnieje w rozkładzie próbkowania modelu; błędu systematycznego
   nie wykryje.
-- Obserwacja poboczna: samo opakowanie promptu zmienia odpowiedź - s15 w formacie
-  C1 (dwie linie z confidence) daje stabilnie NIE, w formacie C3 (jedno słowo) stabilnie
-  TAK. Odpowiedź modelu nie jest niezależna od formatu, w jakim o nią prosimy.
+- Obserwacja poboczna, ważna dla interpretacji: samo opakowanie promptu zmienia ROZKŁAD
+  odpowiedzi. s15 w formacie C1 (dwie linie z confidence) daje stabilnie NIE, w formacie
+  C3 (jedno słowo) stabilnie 10/10 TAK; s13 w C1 miesza (NIE/TAK/TAK), w C2 (NIE/NIE/TAK),
+  a w C3 jest stabilnie 0/10. Dwie konsekwencje: (a) flip s15 mógł być efektem zmiany
+  formatu, nie agregacji głosów - przy 10/10 głosowanie jest zdegenerowane i nie wykonuje
+  pracy agregacyjnej; (b) sampling ujawnia niepewność istniejącą w rozkładzie DLA DANEGO
+  FORMATU promptu, nie "niepewność modelu" w ogóle.
 
 ## Wnioski
 
