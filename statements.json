@@ -1,0 +1,48 @@
+{
+  "easy": [
+    {"id": "s01", "text": "Warszawa jest stolicą Polski.", "label": true},
+    {"id": "s02", "text": "Woda składa się z wodoru i tlenu.", "label": true},
+    {"id": "s03", "text": "2 + 2 = 5.", "label": false},
+    {"id": "s04", "text": "Słońce krąży wokół Ziemi.", "label": false},
+    {"id": "s05", "text": "Rok kalendarzowy ma 12 miesięcy.", "label": true},
+    {"id": "s06", "text": "Morze Bałtyckie jest oceanem.", "label": false},
+    {"id": "s07", "text": "Adam Mickiewicz napisał 'Pana Tadeusza'.", "label": true},
+    {"id": "s08", "text": "Pingwiny potrafią latać.", "label": false},
+    {"id": "s09", "text": "Kraków leży nad Wisłą.", "label": true},
+    {"id": "s10", "text": "Księżyc jest większy od Ziemi.", "label": false},
+    {"id": "s11", "text": "Tydzień ma 8 dni.", "label": false},
+    {"id": "s12", "text": "Berlin jest stolicą Niemiec.", "label": true}
+  ],
+  "medium": [
+    {"id": "s13", "text": "Liczba 51 jest podzielna przez 3.", "label": true},
+    {"id": "s14", "text": "Mozart urodził się przed Beethovenem.", "label": true},
+    {"id": "s15", "text": "Wołga jest najdłuższą rzeką Europy.", "label": true},
+    {"id": "s16", "text": "Australia ma większą powierzchnię niż Grenlandia.", "label": true},
+    {"id": "s17", "text": "Dźwięk rozchodzi się w wodzie szybciej niż w powietrzu.", "label": true},
+    {"id": "s18", "text": "Miedź jest ferromagnetykiem.", "label": false},
+    {"id": "s19", "text": "II wojna światowa zakończyła się w 1946 roku.", "label": false},
+    {"id": "s20", "text": "Kangury występują naturalnie tylko w Australii i na Nowej Gwinei.", "label": true},
+    {"id": "s21", "text": "Liczba 121 jest kwadratem liczby całkowitej.", "label": true},
+    {"id": "s22", "text": "Hiszpania graniczy lądowo z Francją.", "label": true},
+    {"id": "s23", "text": "Tlen jest najobficiej występującym pierwiastkiem w skorupie ziemskiej.", "label": true},
+    {"id": "s24", "text": "William Szekspir zmarł w XVII wieku.", "label": true},
+    {"id": "s25", "text": "Filiżanka naparu herbaty zawiera więcej kofeiny niż filiżanka naparu kawy.", "label": false},
+    {"id": "s26", "text": "Grenlandia jest terytorium zależnym Danii.", "label": true}
+  ],
+  "hard": [
+    {"id": "s27", "text": "Liczba 91 jest liczbą pierwszą.", "label": false},
+    {"id": "s28", "text": "Wenus jest najgorętszą planetą Układu Słonecznego.", "label": true},
+    {"id": "s29", "text": "Liczba 1 jest liczbą pierwszą.", "label": false},
+    {"id": "s30", "text": "Nietoperze są ślepe.", "label": false},
+    {"id": "s31", "text": "Wielki Mur Chiński widać gołym okiem z orbity okołoziemskiej.", "label": false},
+    {"id": "s32", "text": "Pomidor jest z botanicznego punktu widzenia owocem.", "label": true},
+    {"id": "s33", "text": "W arytmetyce zmiennoprzecinkowej float64 wyrażenie 0.1 + 0.2 jest dokładnie równe 0.3.", "label": false},
+    {"id": "s34", "text": "Antarktyda jest największą pustynią świata.", "label": true},
+    {"id": "s35", "text": "Współczesna fizjologia wyróżnia u człowieka dokładnie pięć zmysłów.", "label": false},
+    {"id": "s36", "text": "Kanał błyskawicy bywa gorętszy niż powierzchnia Słońca.", "label": true},
+    {"id": "s37", "text": "Złoto ma większą gęstość niż ołów.", "label": true},
+    {"id": "s38", "text": "Rekiny są ssakami.", "label": false},
+    {"id": "s39", "text": "Ośmiornica ma trzy serca.", "label": true},
+    {"id": "s40", "text": "Banany rosną na drzewach.", "label": false}
+  ]
+}
