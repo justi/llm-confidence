@@ -149,6 +149,26 @@ modelu o pewność w ogóle.
    trudnych zdaniach - kosztem k wywołań zamiast jednego i z zastrzeżeniem, że pewnego
    błędu systematycznego nie wykryje.
 
+## Wynik 4 (dopisany): drugi przebieg tego samego modelu jako sędzia NIE pomaga
+
+Pytanie uzupełniające: czy ocena odpowiedzi przez drugi przebieg LLM (ten sam model,
+qwen-fast) daje lepszą pewność niż deklaracja inline? Oceniane: odpowiedzi C1 rep0
+(w tym 3 błędne: s13, s15, s37). Skrypt `judge_conf.py`, wyniki `results_judge.jsonl`,
+520 wywołań.
+
+- **C4a - sędzia deklaruje 0..1** (3 rep x 40): znów 3 unikalne wartości {0.0, 0.95, 1.0}
+  (92/111 to 1.0; nowa "ulubiona" to 0.0 - sędzia operuje ekstremami). Brier **0.1173** -
+  ponad 2x gorzej niż deklaracja inline (0.0483). Nieciągłość dotyczy każdej deklaracji,
+  niezależnie od przebiegu.
+- **C4b - sędzia głosuje k=10**: Brier **0.0783** - gorzej i od C3 (0.0312), i od C1.
+- Błędy skorelowane: błędna odpowiedź s15 pobłogosławiona 8/10 głosami i deklaracjami 1.0;
+  s37 - 6/10 i 3x1.0; s13 częściowo złapana (3/10 "poprawna", deklaracje [0.0, 0.0, 1.0]).
+- Nowy tryb awarii: POPRAWNA odpowiedź na najtrudniejsze zdanie s16 odrzucona przez
+  sędziego 0/10 (samo-głosowanie C3 dawało tam uczciwe 7/10). Ocena cudzej odpowiedzi to
+  kolejna zmiana formatu promptu - dziedziczy luki wiedzy i dokłada szum ujęcia.
+- Ograniczenie: testowany wyłącznie samo-sędzia (ten sam model). Sędzia mocniejszy od
+  ocenianego (klasyczny układ LLM-as-judge) to inna konfiguracja - tu niemierzona.
+
 ## Wnioski praktyczne (implikacje inżynierskie pomiaru)
 
 - Skoro wsparcie rozkładu to {0.95, 0.99, 1.0}, każdy próg poniżej 0.95 (np. typowe

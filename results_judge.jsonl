@@ -1,0 +1,520 @@
+{"cond": "C4a", "id": "s01", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 15.08}
+{"cond": "C4a", "id": "s01", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.45}
+{"cond": "C4a", "id": "s01", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.44}
+{"cond": "C4b", "id": "s01", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.6}
+{"cond": "C4b", "id": "s01", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s01", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s01", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s01", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s01", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s01", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s01", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s01", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s01", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4a", "id": "s02", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.76}
+{"cond": "C4a", "id": "s02", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.44}
+{"cond": "C4a", "id": "s02", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.44}
+{"cond": "C4b", "id": "s02", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.6}
+{"cond": "C4b", "id": "s02", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s02", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s02", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s02", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s02", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s02", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s02", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s02", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s02", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4a", "id": "s03", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 0, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.76}
+{"cond": "C4a", "id": "s03", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 1, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.43}
+{"cond": "C4a", "id": "s03", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 2, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.48}
+{"cond": "C4b", "id": "s03", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 0, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.63}
+{"cond": "C4b", "id": "s03", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s03", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 2, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s03", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s03", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s03", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s03", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s03", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s03", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s03", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C4a", "id": "s04", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 0, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.78}
+{"cond": "C4a", "id": "s04", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 1, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.44}
+{"cond": "C4a", "id": "s04", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 2, "verdict": null, "conf": 1.0, "raw": "Odpowiedź jest w pełni poprawna, ponieważ współczesna nauka potwierdza, że to Ziemia krąży wokół Słońca. CONFIDENCE: 1.", "sec": 1.02}
+{"cond": "C4b", "id": "s04", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 0, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.58}
+{"cond": "C4b", "id": "s04", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s04", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 2, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s04", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s04", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s04", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s04", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s04", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s04", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s04", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4a", "id": "s05", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.74}
+{"cond": "C4a", "id": "s05", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.44}
+{"cond": "C4a", "id": "s05", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.43}
+{"cond": "C4b", "id": "s05", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.59}
+{"cond": "C4b", "id": "s05", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4b", "id": "s05", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s05", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4b", "id": "s05", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4b", "id": "s05", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s05", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s05", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s05", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s05", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4a", "id": "s06", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 0, "verdict": null, "conf": 1.0, "raw": "Odpowiedź jest w pełni poprawna, ponieważ Morze Bałtyckie to akwen śródlądowy, a nie ocean.\nCONFIDENCE: 1.0", "sec": 1.35}
+{"cond": "C4a", "id": "s06", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 1, "verdict": null, "conf": null, "raw": "Aby ocenić poprawność odpowiedzi, należy przeanalizować faktyczne znaczenie pojęć geograficznych. Morze Bałtyckie jest morzem, czyli mniejszym", "sec": 1.03}
+{"cond": "C4a", "id": "s06", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 2, "verdict": null, "conf": 1.0, "raw": "Odpowiedź jest całkowicie poprawna, ponieważ Morze Bałtyckie to morze, a nie ocean.\nCONFIDENCE: 1.0", "sec": 0.93}
+{"cond": "C4b", "id": "s06", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 0, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.6}
+{"cond": "C4b", "id": "s06", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s06", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 2, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s06", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s06", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C4b", "id": "s06", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s06", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.34}
+{"cond": "C4b", "id": "s06", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s06", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s06", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.36}
+{"cond": "C4a", "id": "s07", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.78}
+{"cond": "C4a", "id": "s07", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.44}
+{"cond": "C4a", "id": "s07", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.43}
+{"cond": "C4b", "id": "s07", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.62}
+{"cond": "C4b", "id": "s07", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s07", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s07", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s07", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s07", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.34}
+{"cond": "C4b", "id": "s07", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s07", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s07", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s07", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4a", "id": "s08", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 0, "verdict": null, "conf": 0.95, "raw": "ODPOWIEDŹ: FAŁSZYWA (95% pingwinów nie potrafi latać) CONFIDENCE: 0.95", "sec": 1.28}
+{"cond": "C4a", "id": "s08", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 1, "verdict": null, "conf": null, "raw": "FAŁSZYWE", "sec": 0.38}
+{"cond": "C4a", "id": "s08", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 2, "verdict": null, "conf": 1.0, "raw": "Odpowiedź jest w pełni poprawna, ponieważ pingwiny są ptakami nielotnymi.\nCONFIDENCE: 1.0", "sec": 0.92}
+{"cond": "C4b", "id": "s08", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 0, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.6}
+{"cond": "C4b", "id": "s08", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s08", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 2, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s08", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s08", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s08", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s08", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s08", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s08", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s08", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4a", "id": "s09", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": null, "conf": 0.95, "raw": "CONFIDENCE: 0.95", "sec": 0.76}
+{"cond": "C4a", "id": "s09", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": null, "conf": 0.0, "raw": "CONFIDENCE: 0.0", "sec": 0.43}
+{"cond": "C4a", "id": "s09", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": null, "conf": 0.0, "raw": "CONFIDENCE: 0.0", "sec": 0.43}
+{"cond": "C4b", "id": "s09", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": "NIE", "conf": null, "raw": "NIE", "sec": 0.61}
+{"cond": "C4b", "id": "s09", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": "NIE", "conf": null, "raw": "NIE", "sec": 0.32}
+{"cond": "C4b", "id": "s09", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": "NIE", "conf": null, "raw": "NIE", "sec": 0.33}
+{"cond": "C4b", "id": "s09", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 3, "verdict": "NIE", "conf": null, "raw": "NIE", "sec": 0.33}
+{"cond": "C4b", "id": "s09", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 4, "verdict": "NIE", "conf": null, "raw": "NIE", "sec": 0.32}
+{"cond": "C4b", "id": "s09", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 5, "verdict": "NIE", "conf": null, "raw": "NIE", "sec": 0.32}
+{"cond": "C4b", "id": "s09", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 6, "verdict": "NIE", "conf": null, "raw": "NIE", "sec": 0.32}
+{"cond": "C4b", "id": "s09", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 7, "verdict": "NIE", "conf": null, "raw": "NIE", "sec": 0.33}
+{"cond": "C4b", "id": "s09", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 8, "verdict": "NIE", "conf": null, "raw": "NIE", "sec": 0.32}
+{"cond": "C4b", "id": "s09", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 9, "verdict": "NIE", "conf": null, "raw": "NIE", "sec": 0.32}
+{"cond": "C4a", "id": "s10", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 0, "verdict": null, "conf": 1.0, "raw": "Odpowiedź jest w pełni poprawna, ponieważ Księżyc ma średnicę około 3474 km, podczas gdy Ziemi około 12742 km.", "sec": 1.34}
+{"cond": "C4a", "id": "s10", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 1, "verdict": null, "conf": 1.0, "raw": "Odpowiedź jest całkowicie poprawna, ponieważ Księżyc ma średnicę około 3474 km, podczas gdy Ziemi około 12742 km.", "sec": 1.03}
+{"cond": "C4a", "id": "s10", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 2, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.44}
+{"cond": "C4b", "id": "s10", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 0, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.58}
+{"cond": "C4b", "id": "s10", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s10", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 2, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s10", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4b", "id": "s10", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s10", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4b", "id": "s10", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s10", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s10", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4b", "id": "s10", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4a", "id": "s11", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 0, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.77}
+{"cond": "C4a", "id": "s11", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 1, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.43}
+{"cond": "C4a", "id": "s11", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 2, "verdict": null, "conf": 1.0, "raw": "Odpowiedź jest w pełni poprawna, ponieważ tydzień faktycznie składa się z 7 dni.\nCONFIDENCE: 1.0", "sec": 0.91}
+{"cond": "C4b", "id": "s11", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 0, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.61}
+{"cond": "C4b", "id": "s11", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4b", "id": "s11", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 2, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s11", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s11", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s11", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s11", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s11", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4b", "id": "s11", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s11", "tier": "easy", "label": false, "judged_answer": "NIE", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4a", "id": "s12", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.76}
+{"cond": "C4a", "id": "s12", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.43}
+{"cond": "C4a", "id": "s12", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.44}
+{"cond": "C4b", "id": "s12", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.6}
+{"cond": "C4b", "id": "s12", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s12", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s12", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.36}
+{"cond": "C4b", "id": "s12", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s12", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s12", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s12", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s12", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s12", "tier": "easy", "label": true, "judged_answer": "TAK", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4a", "id": "s13", "tier": "medium", "label": true, "judged_answer": "NIE", "rep": 0, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.74}
+{"cond": "C4a", "id": "s13", "tier": "medium", "label": true, "judged_answer": "NIE", "rep": 1, "verdict": null, "conf": 0.0, "raw": "CONFIDENCE: 0.0", "sec": 0.43}
+{"cond": "C4a", "id": "s13", "tier": "medium", "label": true, "judged_answer": "NIE", "rep": 2, "verdict": null, "conf": 0.0, "raw": "CONFIDENCE: 0.0", "sec": 0.43}
+{"cond": "C4b", "id": "s13", "tier": "medium", "label": true, "judged_answer": "NIE", "rep": 0, "verdict": "NIE", "conf": null, "raw": "NIE", "sec": 0.6}
+{"cond": "C4b", "id": "s13", "tier": "medium", "label": true, "judged_answer": "NIE", "rep": 1, "verdict": "NIE", "conf": null, "raw": "NIE", "sec": 0.32}
+{"cond": "C4b", "id": "s13", "tier": "medium", "label": true, "judged_answer": "NIE", "rep": 2, "verdict": "NIE", "conf": null, "raw": "NIE", "sec": 0.32}
+{"cond": "C4b", "id": "s13", "tier": "medium", "label": true, "judged_answer": "NIE", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s13", "tier": "medium", "label": true, "judged_answer": "NIE", "rep": 4, "verdict": "NIE", "conf": null, "raw": "NIE", "sec": 0.32}
+{"cond": "C4b", "id": "s13", "tier": "medium", "label": true, "judged_answer": "NIE", "rep": 5, "verdict": "NIE", "conf": null, "raw": "NIE", "sec": 0.32}
+{"cond": "C4b", "id": "s13", "tier": "medium", "label": true, "judged_answer": "NIE", "rep": 6, "verdict": "NIE", "conf": null, "raw": "NIE", "sec": 0.33}
+{"cond": "C4b", "id": "s13", "tier": "medium", "label": true, "judged_answer": "NIE", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s13", "tier": "medium", "label": true, "judged_answer": "NIE", "rep": 8, "verdict": "NIE", "conf": null, "raw": "NIE", "sec": 0.32}
+{"cond": "C4b", "id": "s13", "tier": "medium", "label": true, "judged_answer": "NIE", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4a", "id": "s14", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": null, "conf": 1.0, "raw": "Odpowiedź jest całkowicie poprawna, ponieważ Wolfgang Amadeus Mozart urodził się w 1756 roku, a Ludwig van Beethoven w 1770 roku.", "sec": 1.35}
+{"cond": "C4a", "id": "s14", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": null, "conf": 1.0, "raw": "Odpowiedź jest w pełni poprawna, ponieważ Wolfgang Amadeus Mozart urodził się w 1756 roku, a Ludwig van Beethoven w 1770 roku", "sec": 1.02}
+{"cond": "C4a", "id": "s14", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.44}
+{"cond": "C4b", "id": "s14", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.61}
+{"cond": "C4b", "id": "s14", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s14", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s14", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s14", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s14", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s14", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s14", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s14", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4b", "id": "s14", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4a", "id": "s15", "tier": "medium", "label": true, "judged_answer": "NIE", "rep": 0, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.75}
+{"cond": "C4a", "id": "s15", "tier": "medium", "label": true, "judged_answer": "NIE", "rep": 1, "verdict": null, "conf": 1.0, "raw": "Ta odpowiedź jest w pełni poprawna, ponieważ najdłuższą rzeką Europy jest Ural, a nie Wołga.\nCONFIDENCE: 1", "sec": 0.96}
+{"cond": "C4a", "id": "s15", "tier": "medium", "label": true, "judged_answer": "NIE", "rep": 2, "verdict": null, "conf": null, "raw": "Ta odpowiedź jest niepoprawna, ponieważ Wołga faktycznie jest najdłuższą rzeką całkowicie położoną w Europie (choć Ural bywa uznawany", "sec": 1.03}
+{"cond": "C4b", "id": "s15", "tier": "medium", "label": true, "judged_answer": "NIE", "rep": 0, "verdict": "NIE", "conf": null, "raw": "NIE", "sec": 0.61}
+{"cond": "C4b", "id": "s15", "tier": "medium", "label": true, "judged_answer": "NIE", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4b", "id": "s15", "tier": "medium", "label": true, "judged_answer": "NIE", "rep": 2, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s15", "tier": "medium", "label": true, "judged_answer": "NIE", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4b", "id": "s15", "tier": "medium", "label": true, "judged_answer": "NIE", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4b", "id": "s15", "tier": "medium", "label": true, "judged_answer": "NIE", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s15", "tier": "medium", "label": true, "judged_answer": "NIE", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s15", "tier": "medium", "label": true, "judged_answer": "NIE", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4b", "id": "s15", "tier": "medium", "label": true, "judged_answer": "NIE", "rep": 8, "verdict": "NIE", "conf": null, "raw": "NIE", "sec": 0.34}
+{"cond": "C4b", "id": "s15", "tier": "medium", "label": true, "judged_answer": "NIE", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4a", "id": "s16", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": null, "conf": 0.0, "raw": "CONFIDENCE: 0.0", "sec": 0.76}
+{"cond": "C4a", "id": "s16", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": null, "conf": 0.0, "raw": "CONFIDENCE: 0.0", "sec": 0.44}
+{"cond": "C4a", "id": "s16", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": null, "conf": 1.0, "raw": "W odpowiedzi kryje się błąd faktyczny, ponieważ Grenlandia (ok. 2,16 mln km²) jest znacznie większa od Australii jako kontynentu", "sec": 1.02}
+{"cond": "C4b", "id": "s16", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": "NIE", "conf": null, "raw": "NIE", "sec": 0.62}
+{"cond": "C4b", "id": "s16", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": "NIE", "conf": null, "raw": "NIE", "sec": 0.33}
+{"cond": "C4b", "id": "s16", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": "NIE", "conf": null, "raw": "NIE", "sec": 0.32}
+{"cond": "C4b", "id": "s16", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 3, "verdict": "NIE", "conf": null, "raw": "NIE", "sec": 0.33}
+{"cond": "C4b", "id": "s16", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 4, "verdict": "NIE", "conf": null, "raw": "NIE", "sec": 0.32}
+{"cond": "C4b", "id": "s16", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 5, "verdict": "NIE", "conf": null, "raw": "NIE", "sec": 0.32}
+{"cond": "C4b", "id": "s16", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 6, "verdict": "NIE", "conf": null, "raw": "NIE", "sec": 0.32}
+{"cond": "C4b", "id": "s16", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 7, "verdict": "NIE", "conf": null, "raw": "NIE", "sec": 0.31}
+{"cond": "C4b", "id": "s16", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 8, "verdict": "NIE", "conf": null, "raw": "NIE", "sec": 0.32}
+{"cond": "C4b", "id": "s16", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 9, "verdict": "NIE", "conf": null, "raw": "NIE", "sec": 0.32}
+{"cond": "C4a", "id": "s17", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.76}
+{"cond": "C4a", "id": "s17", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.44}
+{"cond": "C4a", "id": "s17", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.44}
+{"cond": "C4b", "id": "s17", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.6}
+{"cond": "C4b", "id": "s17", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s17", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s17", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s17", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s17", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s17", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s17", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s17", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s17", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4a", "id": "s18", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 0, "verdict": null, "conf": 1.0, "raw": "Odpowiedź jest w pełni poprawna, ponieważ miedź jest diamagnetykiem, a nie ferromagnetykiem.\nCONFIDENCE: 1.0", "sec": 1.3}
+{"cond": "C4a", "id": "s18", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 1, "verdict": null, "conf": 1.0, "raw": "ODPOWIEDŹ jest poprawna (zdanie jest fałszywe, ponieważ miedź jest diamagnetykiem). CONFIDENCE: 1.0", "sec": 0.97}
+{"cond": "C4a", "id": "s18", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 2, "verdict": null, "conf": 1.0, "raw": "FAŁSZYWE; CONFIDENCE: 1.0", "sec": 0.55}
+{"cond": "C4b", "id": "s18", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 0, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.6}
+{"cond": "C4b", "id": "s18", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s18", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 2, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s18", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s18", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s18", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s18", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s18", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s18", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s18", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4a", "id": "s19", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 0, "verdict": null, "conf": 1.0, "raw": "Odpowiedź jest całkowicie poprawna, ponieważ II wojna światowa oficjalnie zakończyła się w 1945 roku.\nCONFIDENCE: 1.0", "sec": 1.35}
+{"cond": "C4a", "id": "s19", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 1, "verdict": null, "conf": 1.0, "raw": "Odpowiedź jest w pełni poprawna, ponieważ II wojna światowa zakończyła się formalnie w 1945 roku (kapitulacja Japonii). CONFIDENCE:", "sec": 1.03}
+{"cond": "C4a", "id": "s19", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 2, "verdict": null, "conf": 1.0, "raw": "Ta odpowiedź jest całkowicie poprawna, ponieważ II wojna światowa oficjalnie zakończyła się w 1945 roku. CONFIDENCE: 1.0", "sec": 0.99}
+{"cond": "C4b", "id": "s19", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 0, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.61}
+{"cond": "C4b", "id": "s19", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s19", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 2, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4b", "id": "s19", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4b", "id": "s19", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s19", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s19", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s19", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s19", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s19", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4a", "id": "s20", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": null, "conf": 1.0, "raw": "The answer is correct because kangaroos are native exclusively to Australia and New Guinea (and nearby islands like Timor).\nCONFIDENCE: 1.0", "sec": 1.31}
+{"cond": "C4a", "id": "s20", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": null, "conf": 0.95, "raw": "CONFIDENCE: 0.95", "sec": 0.45}
+{"cond": "C4a", "id": "s20", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": null, "conf": 0.95, "raw": "CONFIDENCE: 0.95", "sec": 0.45}
+{"cond": "C4b", "id": "s20", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.64}
+{"cond": "C4b", "id": "s20", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s20", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s20", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4b", "id": "s20", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s20", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s20", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s20", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s20", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s20", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4a", "id": "s21", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.76}
+{"cond": "C4a", "id": "s21", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.44}
+{"cond": "C4a", "id": "s21", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.44}
+{"cond": "C4b", "id": "s21", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.61}
+{"cond": "C4b", "id": "s21", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s21", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s21", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s21", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s21", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s21", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s21", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s21", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s21", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4a", "id": "s22", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.75}
+{"cond": "C4a", "id": "s22", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.44}
+{"cond": "C4a", "id": "s22", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.43}
+{"cond": "C4b", "id": "s22", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.61}
+{"cond": "C4b", "id": "s22", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4b", "id": "s22", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s22", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s22", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s22", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s22", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s22", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s22", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s22", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4a", "id": "s23", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.77}
+{"cond": "C4a", "id": "s23", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.43}
+{"cond": "C4a", "id": "s23", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.43}
+{"cond": "C4b", "id": "s23", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.61}
+{"cond": "C4b", "id": "s23", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s23", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s23", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s23", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s23", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s23", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s23", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s23", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s23", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4a", "id": "s24", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.75}
+{"cond": "C4a", "id": "s24", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.43}
+{"cond": "C4a", "id": "s24", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": null, "conf": 1.0, "raw": "Wiadomo, że William Szekspir zmarł w 1616 roku, co jest zgodne z faktem historycznym.\nCONFIDENCE: 1.0", "sec": 1.03}
+{"cond": "C4b", "id": "s24", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.6}
+{"cond": "C4b", "id": "s24", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s24", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s24", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s24", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s24", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s24", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s24", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4b", "id": "s24", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s24", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4a", "id": "s25", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 0, "verdict": null, "conf": 0.0, "raw": "FAŁSZYWOSTŹ tego zdania zależy od wielkości filiżanki i sposobu parzenia, więc odpowiedź jest częściowo poprawna.\nCONFIDENCE: 0", "sec": 1.39}
+{"cond": "C4a", "id": "s25", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 1, "verdict": null, "conf": 1.0, "raw": "Odpowiedź jest w pełni poprawna, ponieważ kawa zawiera znacznie więcej kofeiny niż herbata.\nCONFIDENCE: 1", "sec": 0.88}
+{"cond": "C4a", "id": "s25", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 2, "verdict": null, "conf": 0.0, "raw": "ODPOWIEDŹ: Odpowiedź jest w dużej mierze poprawna, ponieważ przy porównywaniu standardowych porcji (np. 240 ml) kawa", "sec": 1.03}
+{"cond": "C4b", "id": "s25", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 0, "verdict": "NIE", "conf": null, "raw": "NIE", "sec": 0.66}
+{"cond": "C4b", "id": "s25", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4b", "id": "s25", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 2, "verdict": "NIE", "conf": null, "raw": "NIE", "sec": 0.32}
+{"cond": "C4b", "id": "s25", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s25", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4b", "id": "s25", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s25", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s25", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s25", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s25", "tier": "medium", "label": false, "judged_answer": "NIE", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4a", "id": "s26", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": null, "conf": 0.95, "raw": "CONFIDENCE: 0.95", "sec": 0.83}
+{"cond": "C4a", "id": "s26", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": null, "conf": 0.95, "raw": "CONFIDENCE: 0.95", "sec": 0.46}
+{"cond": "C4a", "id": "s26", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.44}
+{"cond": "C4b", "id": "s26", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.62}
+{"cond": "C4b", "id": "s26", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s26", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s26", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s26", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s26", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s26", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s26", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s26", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s26", "tier": "medium", "label": true, "judged_answer": "TAK", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4a", "id": "s27", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 0, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.77}
+{"cond": "C4a", "id": "s27", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 1, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.44}
+{"cond": "C4a", "id": "s27", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 2, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.43}
+{"cond": "C4b", "id": "s27", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 0, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.63}
+{"cond": "C4b", "id": "s27", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s27", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 2, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s27", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s27", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s27", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s27", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s27", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s27", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s27", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4a", "id": "s28", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.78}
+{"cond": "C4a", "id": "s28", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.44}
+{"cond": "C4a", "id": "s28", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.43}
+{"cond": "C4b", "id": "s28", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.63}
+{"cond": "C4b", "id": "s28", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.34}
+{"cond": "C4b", "id": "s28", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s28", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s28", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s28", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s28", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s28", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s28", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s28", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4a", "id": "s29", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 0, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.77}
+{"cond": "C4a", "id": "s29", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 1, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.44}
+{"cond": "C4a", "id": "s29", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 2, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.44}
+{"cond": "C4b", "id": "s29", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 0, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.61}
+{"cond": "C4b", "id": "s29", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s29", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 2, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s29", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s29", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s29", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s29", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s29", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s29", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s29", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4a", "id": "s30", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 0, "verdict": null, "conf": null, "raw": "Odpowiedź jest w pełni poprawna, ponieważ mit o ślepocie nietoperzy jest powszechnie obalony przez fakty biologiczne; wszystkie gatunki nietoperzy", "sec": 1.35}
+{"cond": "C4a", "id": "s30", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 1, "verdict": null, "conf": 1.0, "raw": "CONFIDICE: 1.0", "sec": 0.44}
+{"cond": "C4a", "id": "s30", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 2, "verdict": null, "conf": 1.0, "raw": "CONFIDidence: 1.0", "sec": 0.43}
+{"cond": "C4b", "id": "s30", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 0, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.6}
+{"cond": "C4b", "id": "s30", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s30", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 2, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s30", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s30", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s30", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4b", "id": "s30", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4b", "id": "s30", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s30", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s30", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4a", "id": "s31", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 0, "verdict": null, "conf": 0.0, "raw": "The claim is widely considered false by NASA and other scientific authorities; the Great Wall is too narrow to be seen with the naked eye from low Ear", "sec": 1.38}
+{"cond": "C4a", "id": "s31", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 1, "verdict": null, "conf": null, "raw": "Odpowiedź jest w pełni poprawna, ponieważ naukowe dowody i relacje astronautów potwierdzają, że Mur Chiński nie jest widoczny gołym okiem z orbity", "sec": 1.03}
+{"cond": "C4a", "id": "s31", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 2, "verdict": null, "conf": 0.95, "raw": "CONFIDENCE: 0.95", "sec": 0.45}
+{"cond": "C4b", "id": "s31", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 0, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.64}
+{"cond": "C4b", "id": "s31", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s31", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 2, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s31", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s31", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s31", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s31", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C4b", "id": "s31", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s31", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.42}
+{"cond": "C4b", "id": "s31", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C4a", "id": "s32", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.8}
+{"cond": "C4a", "id": "s32", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.44}
+{"cond": "C4a", "id": "s32", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.44}
+{"cond": "C4b", "id": "s32", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.62}
+{"cond": "C4b", "id": "s32", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s32", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s32", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s32", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s32", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s32", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.34}
+{"cond": "C4b", "id": "s32", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s32", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s32", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4a", "id": "s33", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 0, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.81}
+{"cond": "C4a", "id": "s33", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 1, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.45}
+{"cond": "C4a", "id": "s33", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 2, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.46}
+{"cond": "C4b", "id": "s33", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 0, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.69}
+{"cond": "C4b", "id": "s33", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s33", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 2, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4b", "id": "s33", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s33", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s33", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4b", "id": "s33", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s33", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4b", "id": "s33", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s33", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4a", "id": "s34", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.76}
+{"cond": "C4a", "id": "s34", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": null, "conf": 0.95, "raw": "CONFIDENCE: 0.95", "sec": 0.47}
+{"cond": "C4a", "id": "s34", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.45}
+{"cond": "C4b", "id": "s34", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.62}
+{"cond": "C4b", "id": "s34", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.34}
+{"cond": "C4b", "id": "s34", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s34", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s34", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s34", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s34", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.34}
+{"cond": "C4b", "id": "s34", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s34", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s34", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4a", "id": "s35", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 0, "verdict": null, "conf": null, "raw": "ODPOWIEDŹ: Poprawna, ponieważ współczesna nauka wyróżnia znacznie więcej niż pięć zmysłów (np. wzrok, słuch, węch, smak", "sec": 1.38}
+{"cond": "C4a", "id": "s35", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 1, "verdict": null, "conf": 0.95, "raw": "CONFIDENCE: 0.95", "sec": 0.45}
+{"cond": "C4a", "id": "s35", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 2, "verdict": null, "conf": null, "raw": "Ta odpowiedź jest w pełni poprawna, ponieważ współczesna nauka uznaje więcej niż pięć zmysłów (np. propriocepcję, termorecepcję).", "sec": 1.07}
+{"cond": "C4b", "id": "s35", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 0, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.61}
+{"cond": "C4b", "id": "s35", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4b", "id": "s35", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 2, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s35", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s35", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4b", "id": "s35", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4b", "id": "s35", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s35", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4b", "id": "s35", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s35", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4a", "id": "s36", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.81}
+{"cond": "C4a", "id": "s36", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.45}
+{"cond": "C4a", "id": "s36", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": null, "conf": 0.95, "raw": "CONFIDENCE: 0.95", "sec": 0.45}
+{"cond": "C4b", "id": "s36", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.68}
+{"cond": "C4b", "id": "s36", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s36", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.34}
+{"cond": "C4b", "id": "s36", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s36", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.34}
+{"cond": "C4b", "id": "s36", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s36", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s36", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s36", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s36", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4a", "id": "s37", "tier": "hard", "label": true, "judged_answer": "NIE", "rep": 0, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.78}
+{"cond": "C4a", "id": "s37", "tier": "hard", "label": true, "judged_answer": "NIE", "rep": 1, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.43}
+{"cond": "C4a", "id": "s37", "tier": "hard", "label": true, "judged_answer": "NIE", "rep": 2, "verdict": null, "conf": 1.0, "raw": "The answer is correct because gold (density ~19.3 g/cm³) is indeed denser than lead (density ~11.3 g/cm³), making the claim that the statement", "sec": 1.06}
+{"cond": "C4b", "id": "s37", "tier": "hard", "label": true, "judged_answer": "NIE", "rep": 0, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.63}
+{"cond": "C4b", "id": "s37", "tier": "hard", "label": true, "judged_answer": "NIE", "rep": 1, "verdict": "NIE", "conf": null, "raw": "NIE", "sec": 0.32}
+{"cond": "C4b", "id": "s37", "tier": "hard", "label": true, "judged_answer": "NIE", "rep": 2, "verdict": "NIE", "conf": null, "raw": "NIE", "sec": 0.32}
+{"cond": "C4b", "id": "s37", "tier": "hard", "label": true, "judged_answer": "NIE", "rep": 3, "verdict": "NIE", "conf": null, "raw": "NIE", "sec": 0.32}
+{"cond": "C4b", "id": "s37", "tier": "hard", "label": true, "judged_answer": "NIE", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4b", "id": "s37", "tier": "hard", "label": true, "judged_answer": "NIE", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s37", "tier": "hard", "label": true, "judged_answer": "NIE", "rep": 6, "verdict": "NIE", "conf": null, "raw": "NIE", "sec": 0.32}
+{"cond": "C4b", "id": "s37", "tier": "hard", "label": true, "judged_answer": "NIE", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s37", "tier": "hard", "label": true, "judged_answer": "NIE", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.31}
+{"cond": "C4b", "id": "s37", "tier": "hard", "label": true, "judged_answer": "NIE", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4a", "id": "s38", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 0, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.76}
+{"cond": "C4a", "id": "s38", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 1, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.43}
+{"cond": "C4a", "id": "s38", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 2, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.46}
+{"cond": "C4b", "id": "s38", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 0, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.71}
+{"cond": "C4b", "id": "s38", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.34}
+{"cond": "C4b", "id": "s38", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 2, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.42}
+{"cond": "C4b", "id": "s38", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.43}
+{"cond": "C4b", "id": "s38", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.44}
+{"cond": "C4b", "id": "s38", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.36}
+{"cond": "C4b", "id": "s38", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s38", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s38", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s38", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4a", "id": "s39", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.78}
+{"cond": "C4a", "id": "s39", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.44}
+{"cond": "C4a", "id": "s39", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": null, "conf": 1.0, "raw": "CONFIDENCE: 1.0", "sec": 0.44}
+{"cond": "C4b", "id": "s39", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 0, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.63}
+{"cond": "C4b", "id": "s39", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.4}
+{"cond": "C4b", "id": "s39", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 2, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.36}
+{"cond": "C4b", "id": "s39", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.34}
+{"cond": "C4b", "id": "s39", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C4b", "id": "s39", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.38}
+{"cond": "C4b", "id": "s39", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s39", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s39", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.3}
+{"cond": "C4b", "id": "s39", "tier": "hard", "label": true, "judged_answer": "TAK", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4a", "id": "s40", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 0, "verdict": null, "conf": null, "raw": "Odpowiedź jest w pełni poprawna, ponieważ botanicznie banany rosną na dużych roślinach zielnych, a nie na drzewach.\nCONFIDENCE:", "sec": 1.39}
+{"cond": "C4a", "id": "s40", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 1, "verdict": null, "conf": null, "raw": "ODPOWIEDŹ JEST POPRAWNA; BANANY ROSNĄ NA TRAWIACH (ZIOŁACH), NIE NA DRZEWACH.\nCONFIDENCE", "sec": 1.18}
+{"cond": "C4a", "id": "s40", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 2, "verdict": null, "conf": 1.0, "raw": "ODPOWIEDŹ JEST POPRAWNA (botanicznie banany to byliny, nie drzewa): 1.0", "sec": 1.96}
+{"cond": "C4b", "id": "s40", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 0, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.86}
+{"cond": "C4b", "id": "s40", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 1, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.34}
+{"cond": "C4b", "id": "s40", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 2, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.34}
+{"cond": "C4b", "id": "s40", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 3, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.34}
+{"cond": "C4b", "id": "s40", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 4, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C4b", "id": "s40", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 5, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s40", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 6, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
+{"cond": "C4b", "id": "s40", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 7, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s40", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 8, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.32}
+{"cond": "C4b", "id": "s40", "tier": "hard", "label": false, "judged_answer": "NIE", "rep": 9, "verdict": "TAK", "conf": null, "raw": "TAK", "sec": 0.33}
