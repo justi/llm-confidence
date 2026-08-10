@@ -18,7 +18,7 @@ trudności), czy jak mała skala porządkowa przebrana za ciągłą?
 - Sprzęt: Apple M1 Max 64 GB, Ollama lokalnie (localhost:11434, /api/chat).
 - Zadanie: 40 zdań po polsku typu prawda/fałsz z ręcznie zweryfikowaną etykietą
   (`statements.json`): 12 łatwych (s01-s12), 14 średnich (s13-s26), 14 podchwytliwych
-  (s27-s40). Zadanie z ground truth pozwala mierzyć nie tylko kształt rozkładu, ale i
+  (s27-s40); 23 zdania prawdziwe, 17 fałszywych. Zadanie z ground truth pozwala mierzyć nie tylko kształt rozkładu, ale i
   kalibrację (czy deklarowana pewność przewiduje trafność).
 - 640 wywołań łącznie, 0 błędów sieci, 100% odpowiedzi sparsowanych.
 
@@ -108,6 +108,19 @@ Brier score (niżej = lepiej): C1 = 0.0483, C2 = 0.0557.
 Trafność odpowiedzi per deklarowana wartość (C1+C2 łącznie, 240 deklaracji): przy 0.95 -
 61/68 (90%); przy 0.98 - 4/4; przy 0.99 - 13/13; przy 1.0 - 149/155 (96%). Wartość 0.95
 niesie więc co najwyżej słaby sygnał podwyższonego ryzyka, nie miarę.
+
+Macierz pomyłek (asymetria błędów):
+
+| miara | trafne TAK | trafne NIE | fałszywe TAK (FP) | fałszywe NIE (FN) |
+|---|--:|--:|--:|--:|
+| C1 deklaracje (120) | 63 | 51 | **0** | 6 |
+| C2 deklaracje (120) | 62 | 51 | **0** | 7 |
+| C3 większość głosów (40 zdań) | 22 | 17 | **0** | 1 |
+
+Zero fałszywych potwierdzeń w całym pomiarze - model myli się wyłącznie NEGUJĄC zdania
+prawdziwe (Wołga, podzielność 51, gęstość złota), nigdy potwierdzając fałszywe. Zdania
+fałszywe negował konsekwentnie (np. s25 herbata/kawa i s31 Wielki Mur: C1 3x NIE conf 0.95,
+C3 0/10 TAK).
 
 ## Wynik 3: frakcja głosów mierzy to, czego deklaracja nie widzi
 
@@ -226,7 +239,9 @@ flowchart TD
 
 - Jeden model (strojony qwen3.6 36B MoE Q4_K_M), jedna rodzina, jeden język zadania; inne
   modele mają inne "ulubione liczby", ale zjawisko koncentracji na okrągłych wartościach
-  jest szeroko raportowane - tu pokazujemy jego skalę na konkretnym, reprodukowalnym setupie.
+  jest szeroko raportowane (m.in. G-Eval, EMNLP 2023: "one digit usually dominates the
+  distribution of the scores", https://aclanthology.org/2023.emnlp-main.153/) - tu
+  pokazujemy jego skalę na konkretnym, reprodukowalnym setupie.
 - Jedno zadanie (wiedza prawda/fałsz). Na zadaniach ocen jakościowych (np. "oceń tekst
   0..1") wsparcie bywa szersze, ale koncentracja na wielokrotnościach 0.05/0.1 pozostaje.
 - temperature 0.7 (rekomendowany sampling tego modelu): przy niższej temperaturze frakcje
