@@ -1,6 +1,6 @@
 # Pomiar: czy "confidence 0..1" z LLM jest rozkładem ciągłym?
 
-Data pomiaru: 2026-08-04. Source of record dla artykułu blogowego; każdą liczbę odtwarzasz
+Data pomiaru: 2026-08-10. Source of record dla artykułu blogowego; każdą liczbę odtwarzasz
 skryptami z tego katalogu (`run_conf.py` -> `results.jsonl` -> `analyze_conf.py`).
 
 ## Pytanie badawcze
