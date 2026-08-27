@@ -252,6 +252,41 @@ zwraca garść okrągłych wartości przy suficie skali; zmienia się tylko to, 
 wartości. Na zdaniach, które zna, jest po prostu bezbłędny - i wtedy każda miara pewności
 wygląda na skalibrowaną.
 
+## Wynik 6 (dopisany 2026-08-27): zestaw tier-4 projektowany NA trudność - i dlaczego reasoner go i tak nasycił
+
+Skoro zestaw bazowy okazał się dla qwen3.8 nasycony (Wynik 5), zbudowany został **tier-4**:
+40 nowych zdań (20 PRAWDA / 20 FAŁSZ + 4 kanarki łatwości), zaprojektowanych panelem trzech
+niezależnych modeli pod trudność przypominania: bliskie skalary (Grenlandia ~2166 vs Arabia
+Saudyjska ~2150 tys. km2), kolizje prioru, wyjątki od reguł. Zbiór zamrożony w
+`statements_tier4.json` PRZED pierwszym wywołaniem (per-pozycja źródła w pliku). Pomiar:
+C1 x3 + C3 x10 = 520 wywołań (`run_tier4.py`, `results_tier4_openai.jsonl`), 0 błędów sieci,
+mediany 1.11 s (C1) / 0.80 s (C3). Model: ten sam qwen3.8-27b z myśleniem włączonym.
+
+1. **Trafność znowu ~100%**: 0 błędnych odpowiedzi w C1 (119/120; jedyny brak trafienia to
+   PUSTA odpowiedź przy t46, nie zła), C3 bez ani jednej błędnej większości na 400 głosów,
+   kanarki 52/52. Zestaw celowany w trudność nie wybił modelu z bezbłędności.
+2. **Trudność jest widoczna, ale wyrażona w obrębie 5 setnych skali.** Histogram deklaracji
+   (117 sparsowanych): 1.0 x60, 0.99 x29, 0.98 x25, 0.95 x3. Względem tier-1..3 (1.0 x84/120)
+   masa zeszła z sufitu w dół - ale całe "w dół" to pasmo 0.95-1.0. Dolne 95% skali dalej
+   puste; trafność w każdym koszyku deklaracji: 100%.
+3. **Pęknięcia dokładnie tam, gdzie zaprojektowano - i znowu widzi je frakcja, nie
+   deklaracja.** Jedyne niejednogłosne głosowania C3: t46 Rysy-vs-Góra Kościuszki 8/10
+   i t61 Grenlandia-vs-Arabia 9/10. Przy tym samym t46 deklaracje C1 to {1.0, pusta, 0.99},
+   przy t61 - trzykrotnie 0.98: niepewność, którą głosowanie mierzy frakcją, deklaracja
+   komunikuje co najwyżej drgnięciem o 0.01-0.02 przy suficie.
+4. **Dlaczego "trudne przypominanie" nie wystarcza** (diagnoza mechanizmu, spójna z wynikiem,
+   ale nie dowiedziona wprost - runner nie archiwizuje pola reasoning): model z myśleniem
+   nie musi zgadywać pary bliskich skalarów z jednego skojarzenia - może przypomnieć sobie
+   OBA fakty osobno i porównać. Trudność przypominania zamienia się wtedy w łatwe
+   wyprowadzenie. Encyklopedyczne prawda/fałsz ma więc dla reasonera sufit trudności:
+   każdy fakt składowy jest w korpusie.
+5. **Konsekwencja dla pomiaru kalibracji**: następny krok to nie "jeszcze trudniejsze
+   zdania", tylko zmiana klasy zadania - zadania GENERATYWNE (napisz algorytm), w których
+   werdyktem jest wykonanie ukrytych testów, a miarą pewności frakcja sukcesów z k
+   niezależnych trajektorii, bez pytania modelu o cokolwiek. Ten pomiar żyje w repo
+   [ollama-agentic-loop](https://github.com/justi/ollama-agentic-loop) (drabinka zadań
+   d1-d9, tam gdzie ten sam qwen3.8 realnie przegrywa z najtrudniejszymi zadaniami).
+
 ## Wnioski praktyczne (implikacje inżynierskie pomiaru)
 
 - Skoro wsparcie rozkładu to {0.95, 0.99, 1.0}, każdy próg poniżej 0.95 (np. typowe
@@ -290,3 +325,6 @@ wygląda na skalibrowaną.
 - `run_conf.py` - runner (C1/C2/C3, zapis JSONL per wywołanie)
 - `results.jsonl` - surowe wyniki (640 rekordów)
 - `analyze_conf.py` - wszystkie tabele i metryki z tego dokumentu
+- `judge_conf.py`, `results_judge.jsonl` - Wynik 4 (drugi przebieg jako sędzia)
+- `run_conf_openai.py`, `results_qwen38.jsonl` - Wynik 5 (qwen3.8-27b przez endpoint OpenAI-compatible)
+- `statements_tier4.json`, `run_tier4.py`, `results_tier4_openai.jsonl` - Wynik 6 (zestaw tier-4)
