@@ -221,6 +221,37 @@ flowchart TD
     class V verdict
 ```
 
+## Wynik 5 (dopisany 2026-08-27): drugi, mocniejszy model - teza trzyma, zestaw się nasyca
+
+Ten sam pomiar (te same 40 zdań, prompty C1/C2/C3, temperature 0.7, 640 wywołań, 0 błędów
+sieci) na **qwen3.8-27b (kwantyzacja NVFP4)**, serwowanym silnikiem inference zgodnym z
+OpenAI API na RTX 5090. Różnica reżimu: model rozumujący z myśleniem WŁĄCZONYM - reasoning
+wraca osobnym polem API i nie zanieczyszcza odpowiedzi (inaczej niż w pomiarze bazowym,
+gdzie qwen3.6 miał myślenie wyłączone). Skrypt: `run_conf_openai.py` (endpoint w
+gitignorowanym `.endpoint.env`), wyniki: `results_qwen38.jsonl`. Mediana 0.72 s/wywołanie.
+
+1. **Teza o nieciągłości POTWIERDZONA na drugim modelu.** Histogram C1 (116/120 deklaracji
+   sparsowanych): 0.9 x3, 0.95 x15, 0.98 x9, 0.99 x5, **1.0 x84**. Pięć unikalnych wartości
+   (vs trzy u qwen3.6), top-3 pokrywają 93%, dolne 90% skali puste. "Ulubione liczby" są
+   INNE (dochodzą 0.9 i 0.98) - dokładnie jak przewidywały ograniczenia pomiaru bazowego.
+   C2 analogicznie: 5 wartości, 117/120 sparsowanych.
+2. **Zestaw jest dla tego modelu NASYCONY**: 100% trafności we wszystkich warunkach
+   (C1: 65 TAK + 51 NIE, zero FP i FN; C3: wszystkie 40 zdań jednomyślnie poprawne -
+   frakcje przyjmują wyłącznie 0.0 (17 zdań) i 1.0 (23)). Wszystkie pułapki qwen3.6
+   rozwiązane pewnie: s13 (51/3) 3x TAK 1.0 + 10/10; s15 (Wołga) TAK 0.98-1.0 + 10/10;
+   s16 (Australia) 3x TAK 1.0 + 10/10; s36 (błyskawica) TAK 0.95-0.99 + 10/10.
+3. **Kalibracji tego modelu ten zestaw już nie mierzy.** Brier C1 = 0.0006, C3 = 0.0000 -
+   trywialne przy zerowej liczbie błędów; porównanie deklaracja-vs-frakcja wymaga zdań,
+   których model nie zna na pewno. To sufit zestawu (analogia: zadania d1-d5 w
+   ollama-agentic-loop), nie dowód idealnej kalibracji.
+4. Powtarzalność deklaracji: C1 identyczny conf we wszystkich powtórzeniach dla 30/39 zdań;
+   C2 - 22/40 (prośba o precyzję zwiększa rozrzut, nie rozdzielczość informacyjną).
+
+Wniosek przekrojowy: mocniejszy model nie "naprawia" deklarowanego confidence - dalej
+zwraca garść okrągłych wartości przy suficie skali; zmienia się tylko to, KTÓRE to
+wartości. Na zdaniach, które zna, jest po prostu bezbłędny - i wtedy każda miara pewności
+wygląda na skalibrowaną.
+
 ## Wnioski praktyczne (implikacje inżynierskie pomiaru)
 
 - Skoro wsparcie rozkładu to {0.95, 0.99, 1.0}, każdy próg poniżej 0.95 (np. typowe

@@ -1,0 +1,640 @@
+{"cond": "C1", "id": "s01", "tier": "easy", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 154, "sec": 0.81}
+{"cond": "C1", "id": "s01", "tier": "easy", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 137, "sec": 0.72}
+{"cond": "C1", "id": "s01", "tier": "easy", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1", "finish": "stop", "completion_tokens": 107, "sec": 0.55}
+{"cond": "C2", "id": "s01", "tier": "easy", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 103, "sec": 0.6}
+{"cond": "C2", "id": "s01", "tier": "easy", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 141, "sec": 0.84}
+{"cond": "C2", "id": "s01", "tier": "easy", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 130, "sec": 0.7}
+{"cond": "C3", "id": "s01", "tier": "easy", "label": true, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 65, "sec": 0.44}
+{"cond": "C3", "id": "s01", "tier": "easy", "label": true, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 68, "sec": 0.44}
+{"cond": "C3", "id": "s01", "tier": "easy", "label": true, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 68, "sec": 0.4}
+{"cond": "C3", "id": "s01", "tier": "easy", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 69, "sec": 0.46}
+{"cond": "C3", "id": "s01", "tier": "easy", "label": true, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 54, "sec": 0.35}
+{"cond": "C3", "id": "s01", "tier": "easy", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 63, "sec": 0.4}
+{"cond": "C3", "id": "s01", "tier": "easy", "label": true, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 50, "sec": 0.3}
+{"cond": "C3", "id": "s01", "tier": "easy", "label": true, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 62, "sec": 0.35}
+{"cond": "C3", "id": "s01", "tier": "easy", "label": true, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 69, "sec": 0.43}
+{"cond": "C3", "id": "s01", "tier": "easy", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 45, "sec": 0.3}
+{"cond": "C1", "id": "s02", "tier": "easy", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1", "finish": "stop", "completion_tokens": 195, "sec": 1.1}
+{"cond": "C1", "id": "s02", "tier": "easy", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1", "finish": "stop", "completion_tokens": 140, "sec": 0.86}
+{"cond": "C1", "id": "s02", "tier": "easy", "label": true, "rep": 2, "answer": "TAK", "conf": 0.95, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.95", "finish": "stop", "completion_tokens": 242, "sec": 1.4}
+{"cond": "C2", "id": "s02", "tier": "easy", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 410, "sec": 2.38}
+{"cond": "C2", "id": "s02", "tier": "easy", "label": true, "rep": 1, "answer": "TAK", "conf": 0.95, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.95", "finish": "stop", "completion_tokens": 372, "sec": 2.29}
+{"cond": "C2", "id": "s02", "tier": "easy", "label": true, "rep": 2, "answer": "TAK", "conf": 0.98, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.98", "finish": "stop", "completion_tokens": 234, "sec": 1.42}
+{"cond": "C3", "id": "s02", "tier": "easy", "label": true, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 97, "sec": 0.56}
+{"cond": "C3", "id": "s02", "tier": "easy", "label": true, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 147, "sec": 0.97}
+{"cond": "C3", "id": "s02", "tier": "easy", "label": true, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 132, "sec": 0.8}
+{"cond": "C3", "id": "s02", "tier": "easy", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 147, "sec": 0.96}
+{"cond": "C3", "id": "s02", "tier": "easy", "label": true, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 130, "sec": 0.86}
+{"cond": "C3", "id": "s02", "tier": "easy", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 115, "sec": 0.71}
+{"cond": "C3", "id": "s02", "tier": "easy", "label": true, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 97, "sec": 0.57}
+{"cond": "C3", "id": "s02", "tier": "easy", "label": true, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 151, "sec": 1.01}
+{"cond": "C3", "id": "s02", "tier": "easy", "label": true, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 97, "sec": 0.52}
+{"cond": "C3", "id": "s02", "tier": "easy", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 169, "sec": 1.05}
+{"cond": "C1", "id": "s03", "tier": "easy", "label": false, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1", "finish": "stop", "completion_tokens": 112, "sec": 0.64}
+{"cond": "C1", "id": "s03", "tier": "easy", "label": false, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 100, "sec": 0.57}
+{"cond": "C1", "id": "s03", "tier": "easy", "label": false, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 169, "sec": 0.88}
+{"cond": "C2", "id": "s03", "tier": "easy", "label": false, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 122, "sec": 0.7}
+{"cond": "C2", "id": "s03", "tier": "easy", "label": false, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 109, "sec": 0.68}
+{"cond": "C2", "id": "s03", "tier": "easy", "label": false, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 155, "sec": 0.78}
+{"cond": "C3", "id": "s03", "tier": "easy", "label": false, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 65, "sec": 0.46}
+{"cond": "C3", "id": "s03", "tier": "easy", "label": false, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 68, "sec": 0.4}
+{"cond": "C3", "id": "s03", "tier": "easy", "label": false, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 75, "sec": 0.46}
+{"cond": "C3", "id": "s03", "tier": "easy", "label": false, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 71, "sec": 0.43}
+{"cond": "C3", "id": "s03", "tier": "easy", "label": false, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 72, "sec": 0.5}
+{"cond": "C3", "id": "s03", "tier": "easy", "label": false, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 71, "sec": 0.4}
+{"cond": "C3", "id": "s03", "tier": "easy", "label": false, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 70, "sec": 0.44}
+{"cond": "C3", "id": "s03", "tier": "easy", "label": false, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 74, "sec": 0.43}
+{"cond": "C3", "id": "s03", "tier": "easy", "label": false, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 68, "sec": 0.44}
+{"cond": "C3", "id": "s03", "tier": "easy", "label": false, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 80, "sec": 0.51}
+{"cond": "C1", "id": "s04", "tier": "easy", "label": false, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 181, "sec": 1.05}
+{"cond": "C1", "id": "s04", "tier": "easy", "label": false, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 178, "sec": 0.9}
+{"cond": "C1", "id": "s04", "tier": "easy", "label": false, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 191, "sec": 1.02}
+{"cond": "C2", "id": "s04", "tier": "easy", "label": false, "rep": 0, "answer": "NIE", "conf": 0.99, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.99", "finish": "stop", "completion_tokens": 336, "sec": 2.09}
+{"cond": "C2", "id": "s04", "tier": "easy", "label": false, "rep": 1, "answer": "NIE", "conf": 0.99, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.99", "finish": "stop", "completion_tokens": 162, "sec": 0.96}
+{"cond": "C2", "id": "s04", "tier": "easy", "label": false, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 118, "sec": 0.8}
+{"cond": "C3", "id": "s04", "tier": "easy", "label": false, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 88, "sec": 0.59}
+{"cond": "C3", "id": "s04", "tier": "easy", "label": false, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 124, "sec": 0.83}
+{"cond": "C3", "id": "s04", "tier": "easy", "label": false, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 98, "sec": 0.67}
+{"cond": "C3", "id": "s04", "tier": "easy", "label": false, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 102, "sec": 0.72}
+{"cond": "C3", "id": "s04", "tier": "easy", "label": false, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 80, "sec": 0.53}
+{"cond": "C3", "id": "s04", "tier": "easy", "label": false, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 117, "sec": 0.75}
+{"cond": "C3", "id": "s04", "tier": "easy", "label": false, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 84, "sec": 0.63}
+{"cond": "C3", "id": "s04", "tier": "easy", "label": false, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 123, "sec": 0.83}
+{"cond": "C3", "id": "s04", "tier": "easy", "label": false, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 78, "sec": 0.49}
+{"cond": "C3", "id": "s04", "tier": "easy", "label": false, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 150, "sec": 0.99}
+{"cond": "C1", "id": "s05", "tier": "easy", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1", "finish": "stop", "completion_tokens": 124, "sec": 0.71}
+{"cond": "C1", "id": "s05", "tier": "easy", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 148, "sec": 0.83}
+{"cond": "C1", "id": "s05", "tier": "easy", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 176, "sec": 0.91}
+{"cond": "C2", "id": "s05", "tier": "easy", "label": true, "rep": 0, "answer": "TAK", "conf": 0.98, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.98", "finish": "stop", "completion_tokens": 199, "sec": 1.26}
+{"cond": "C2", "id": "s05", "tier": "easy", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 98, "sec": 0.51}
+{"cond": "C2", "id": "s05", "tier": "easy", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 234, "sec": 1.32}
+{"cond": "C3", "id": "s05", "tier": "easy", "label": true, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 86, "sec": 0.56}
+{"cond": "C3", "id": "s05", "tier": "easy", "label": true, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 104, "sec": 0.59}
+{"cond": "C3", "id": "s05", "tier": "easy", "label": true, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 84, "sec": 0.61}
+{"cond": "C3", "id": "s05", "tier": "easy", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 84, "sec": 0.52}
+{"cond": "C3", "id": "s05", "tier": "easy", "label": true, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 66, "sec": 0.4}
+{"cond": "C3", "id": "s05", "tier": "easy", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 80, "sec": 0.48}
+{"cond": "C3", "id": "s05", "tier": "easy", "label": true, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 79, "sec": 0.51}
+{"cond": "C3", "id": "s05", "tier": "easy", "label": true, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 80, "sec": 0.52}
+{"cond": "C3", "id": "s05", "tier": "easy", "label": true, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 78, "sec": 0.52}
+{"cond": "C3", "id": "s05", "tier": "easy", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 100, "sec": 0.59}
+{"cond": "C1", "id": "s06", "tier": "easy", "label": false, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1", "finish": "stop", "completion_tokens": 119, "sec": 0.65}
+{"cond": "C1", "id": "s06", "tier": "easy", "label": false, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 147, "sec": 0.85}
+{"cond": "C1", "id": "s06", "tier": "easy", "label": false, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 115, "sec": 0.71}
+{"cond": "C2", "id": "s06", "tier": "easy", "label": false, "rep": 0, "answer": "NIE", "conf": 0.99, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.99", "finish": "stop", "completion_tokens": 173, "sec": 1.09}
+{"cond": "C2", "id": "s06", "tier": "easy", "label": false, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 123, "sec": 0.69}
+{"cond": "C2", "id": "s06", "tier": "easy", "label": false, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 107, "sec": 0.66}
+{"cond": "C3", "id": "s06", "tier": "easy", "label": false, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 80, "sec": 0.52}
+{"cond": "C3", "id": "s06", "tier": "easy", "label": false, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 80, "sec": 0.52}
+{"cond": "C3", "id": "s06", "tier": "easy", "label": false, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 79, "sec": 0.53}
+{"cond": "C3", "id": "s06", "tier": "easy", "label": false, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 79, "sec": 0.53}
+{"cond": "C3", "id": "s06", "tier": "easy", "label": false, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 80, "sec": 0.52}
+{"cond": "C3", "id": "s06", "tier": "easy", "label": false, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 70, "sec": 0.4}
+{"cond": "C3", "id": "s06", "tier": "easy", "label": false, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 81, "sec": 0.45}
+{"cond": "C3", "id": "s06", "tier": "easy", "label": false, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 81, "sec": 0.45}
+{"cond": "C3", "id": "s06", "tier": "easy", "label": false, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 82, "sec": 0.47}
+{"cond": "C3", "id": "s06", "tier": "easy", "label": false, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 70, "sec": 0.4}
+{"cond": "C1", "id": "s07", "tier": "easy", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 232, "sec": 1.39}
+{"cond": "C1", "id": "s07", "tier": "easy", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1", "finish": "stop", "completion_tokens": 131, "sec": 0.73}
+{"cond": "C1", "id": "s07", "tier": "easy", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 105, "sec": 0.62}
+{"cond": "C2", "id": "s07", "tier": "easy", "label": true, "rep": 0, "answer": "TAK", "conf": 0.99, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.99", "finish": "stop", "completion_tokens": 140, "sec": 0.86}
+{"cond": "C2", "id": "s07", "tier": "easy", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 129, "sec": 0.72}
+{"cond": "C2", "id": "s07", "tier": "easy", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 179, "sec": 1.08}
+{"cond": "C3", "id": "s07", "tier": "easy", "label": true, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 80, "sec": 0.55}
+{"cond": "C3", "id": "s07", "tier": "easy", "label": true, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 78, "sec": 0.5}
+{"cond": "C3", "id": "s07", "tier": "easy", "label": true, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 72, "sec": 0.49}
+{"cond": "C3", "id": "s07", "tier": "easy", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 74, "sec": 0.53}
+{"cond": "C3", "id": "s07", "tier": "easy", "label": true, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 78, "sec": 0.52}
+{"cond": "C3", "id": "s07", "tier": "easy", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 78, "sec": 0.52}
+{"cond": "C3", "id": "s07", "tier": "easy", "label": true, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 81, "sec": 0.52}
+{"cond": "C3", "id": "s07", "tier": "easy", "label": true, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 70, "sec": 0.52}
+{"cond": "C3", "id": "s07", "tier": "easy", "label": true, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 77, "sec": 0.53}
+{"cond": "C3", "id": "s07", "tier": "easy", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 110, "sec": 0.74}
+{"cond": "C1", "id": "s08", "tier": "easy", "label": false, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 164, "sec": 0.89}
+{"cond": "C1", "id": "s08", "tier": "easy", "label": false, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1", "finish": "stop", "completion_tokens": 126, "sec": 0.81}
+{"cond": "C1", "id": "s08", "tier": "easy", "label": false, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 102, "sec": 0.56}
+{"cond": "C2", "id": "s08", "tier": "easy", "label": false, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 175, "sec": 1.01}
+{"cond": "C2", "id": "s08", "tier": "easy", "label": false, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 140, "sec": 0.75}
+{"cond": "C2", "id": "s08", "tier": "easy", "label": false, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 114, "sec": 0.67}
+{"cond": "C3", "id": "s08", "tier": "easy", "label": false, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 72, "sec": 0.44}
+{"cond": "C3", "id": "s08", "tier": "easy", "label": false, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 72, "sec": 0.42}
+{"cond": "C3", "id": "s08", "tier": "easy", "label": false, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 75, "sec": 0.52}
+{"cond": "C3", "id": "s08", "tier": "easy", "label": false, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 77, "sec": 0.42}
+{"cond": "C3", "id": "s08", "tier": "easy", "label": false, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 76, "sec": 0.44}
+{"cond": "C3", "id": "s08", "tier": "easy", "label": false, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 71, "sec": 0.37}
+{"cond": "C3", "id": "s08", "tier": "easy", "label": false, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 79, "sec": 0.48}
+{"cond": "C3", "id": "s08", "tier": "easy", "label": false, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 73, "sec": 0.4}
+{"cond": "C3", "id": "s08", "tier": "easy", "label": false, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 74, "sec": 0.52}
+{"cond": "C3", "id": "s08", "tier": "easy", "label": false, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 62, "sec": 0.35}
+{"cond": "C1", "id": "s09", "tier": "easy", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1", "finish": "stop", "completion_tokens": 121, "sec": 0.7}
+{"cond": "C1", "id": "s09", "tier": "easy", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 181, "sec": 0.96}
+{"cond": "C1", "id": "s09", "tier": "easy", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 183, "sec": 1.14}
+{"cond": "C2", "id": "s09", "tier": "easy", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 144, "sec": 0.86}
+{"cond": "C2", "id": "s09", "tier": "easy", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 129, "sec": 0.72}
+{"cond": "C2", "id": "s09", "tier": "easy", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 174, "sec": 1.05}
+{"cond": "C3", "id": "s09", "tier": "easy", "label": true, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 69, "sec": 0.41}
+{"cond": "C3", "id": "s09", "tier": "easy", "label": true, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 63, "sec": 0.45}
+{"cond": "C3", "id": "s09", "tier": "easy", "label": true, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 73, "sec": 0.41}
+{"cond": "C3", "id": "s09", "tier": "easy", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 71, "sec": 0.38}
+{"cond": "C3", "id": "s09", "tier": "easy", "label": true, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 64, "sec": 0.44}
+{"cond": "C3", "id": "s09", "tier": "easy", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 80, "sec": 0.52}
+{"cond": "C3", "id": "s09", "tier": "easy", "label": true, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 68, "sec": 0.41}
+{"cond": "C3", "id": "s09", "tier": "easy", "label": true, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 68, "sec": 0.44}
+{"cond": "C3", "id": "s09", "tier": "easy", "label": true, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 100, "sec": 0.62}
+{"cond": "C3", "id": "s09", "tier": "easy", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 74, "sec": 0.45}
+{"cond": "C1", "id": "s10", "tier": "easy", "label": false, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 137, "sec": 0.79}
+{"cond": "C1", "id": "s10", "tier": "easy", "label": false, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 130, "sec": 0.76}
+{"cond": "C1", "id": "s10", "tier": "easy", "label": false, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 180, "sec": 0.95}
+{"cond": "C2", "id": "s10", "tier": "easy", "label": false, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 187, "sec": 1.15}
+{"cond": "C2", "id": "s10", "tier": "easy", "label": false, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 112, "sec": 0.71}
+{"cond": "C2", "id": "s10", "tier": "easy", "label": false, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 148, "sec": 0.74}
+{"cond": "C3", "id": "s10", "tier": "easy", "label": false, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 78, "sec": 0.47}
+{"cond": "C3", "id": "s10", "tier": "easy", "label": false, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 88, "sec": 0.48}
+{"cond": "C3", "id": "s10", "tier": "easy", "label": false, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 77, "sec": 0.42}
+{"cond": "C3", "id": "s10", "tier": "easy", "label": false, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 78, "sec": 0.52}
+{"cond": "C3", "id": "s10", "tier": "easy", "label": false, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 77, "sec": 0.42}
+{"cond": "C3", "id": "s10", "tier": "easy", "label": false, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 78, "sec": 0.45}
+{"cond": "C3", "id": "s10", "tier": "easy", "label": false, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 77, "sec": 0.41}
+{"cond": "C3", "id": "s10", "tier": "easy", "label": false, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 78, "sec": 0.45}
+{"cond": "C3", "id": "s10", "tier": "easy", "label": false, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 77, "sec": 0.41}
+{"cond": "C3", "id": "s10", "tier": "easy", "label": false, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 77, "sec": 0.48}
+{"cond": "C1", "id": "s11", "tier": "easy", "label": false, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 88, "sec": 0.55}
+{"cond": "C1", "id": "s11", "tier": "easy", "label": false, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 149, "sec": 0.83}
+{"cond": "C1", "id": "s11", "tier": "easy", "label": false, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 142, "sec": 0.8}
+{"cond": "C2", "id": "s11", "tier": "easy", "label": false, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 127, "sec": 0.77}
+{"cond": "C2", "id": "s11", "tier": "easy", "label": false, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 123, "sec": 0.72}
+{"cond": "C2", "id": "s11", "tier": "easy", "label": false, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 137, "sec": 0.75}
+{"cond": "C3", "id": "s11", "tier": "easy", "label": false, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 71, "sec": 0.46}
+{"cond": "C3", "id": "s11", "tier": "easy", "label": false, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 96, "sec": 0.56}
+{"cond": "C3", "id": "s11", "tier": "easy", "label": false, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 69, "sec": 0.45}
+{"cond": "C3", "id": "s11", "tier": "easy", "label": false, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 134, "sec": 0.82}
+{"cond": "C3", "id": "s11", "tier": "easy", "label": false, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 71, "sec": 0.45}
+{"cond": "C3", "id": "s11", "tier": "easy", "label": false, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 93, "sec": 0.53}
+{"cond": "C3", "id": "s11", "tier": "easy", "label": false, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 73, "sec": 0.52}
+{"cond": "C3", "id": "s11", "tier": "easy", "label": false, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 98, "sec": 0.54}
+{"cond": "C3", "id": "s11", "tier": "easy", "label": false, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 71, "sec": 0.51}
+{"cond": "C3", "id": "s11", "tier": "easy", "label": false, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 72, "sec": 0.52}
+{"cond": "C1", "id": "s12", "tier": "easy", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 112, "sec": 0.72}
+{"cond": "C1", "id": "s12", "tier": "easy", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1", "finish": "stop", "completion_tokens": 103, "sec": 0.58}
+{"cond": "C1", "id": "s12", "tier": "easy", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 153, "sec": 0.84}
+{"cond": "C2", "id": "s12", "tier": "easy", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 124, "sec": 0.68}
+{"cond": "C2", "id": "s12", "tier": "easy", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 161, "sec": 0.88}
+{"cond": "C2", "id": "s12", "tier": "easy", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 150, "sec": 0.88}
+{"cond": "C3", "id": "s12", "tier": "easy", "label": true, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 63, "sec": 0.45}
+{"cond": "C3", "id": "s12", "tier": "easy", "label": true, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 63, "sec": 0.41}
+{"cond": "C3", "id": "s12", "tier": "easy", "label": true, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 80, "sec": 0.52}
+{"cond": "C3", "id": "s12", "tier": "easy", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 69, "sec": 0.42}
+{"cond": "C3", "id": "s12", "tier": "easy", "label": true, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 69, "sec": 0.45}
+{"cond": "C3", "id": "s12", "tier": "easy", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 53, "sec": 0.33}
+{"cond": "C3", "id": "s12", "tier": "easy", "label": true, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 69, "sec": 0.43}
+{"cond": "C3", "id": "s12", "tier": "easy", "label": true, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 70, "sec": 0.47}
+{"cond": "C3", "id": "s12", "tier": "easy", "label": true, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 84, "sec": 0.52}
+{"cond": "C3", "id": "s12", "tier": "easy", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 72, "sec": 0.42}
+{"cond": "C1", "id": "s13", "tier": "medium", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1", "finish": "stop", "completion_tokens": 154, "sec": 0.86}
+{"cond": "C1", "id": "s13", "tier": "medium", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1", "finish": "stop", "completion_tokens": 122, "sec": 0.64}
+{"cond": "C1", "id": "s13", "tier": "medium", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1", "finish": "stop", "completion_tokens": 152, "sec": 0.84}
+{"cond": "C2", "id": "s13", "tier": "medium", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 120, "sec": 0.72}
+{"cond": "C2", "id": "s13", "tier": "medium", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 111, "sec": 0.59}
+{"cond": "C2", "id": "s13", "tier": "medium", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 120, "sec": 0.66}
+{"cond": "C3", "id": "s13", "tier": "medium", "label": true, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 74, "sec": 0.52}
+{"cond": "C3", "id": "s13", "tier": "medium", "label": true, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 70, "sec": 0.42}
+{"cond": "C3", "id": "s13", "tier": "medium", "label": true, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 75, "sec": 0.44}
+{"cond": "C3", "id": "s13", "tier": "medium", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 73, "sec": 0.52}
+{"cond": "C3", "id": "s13", "tier": "medium", "label": true, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 75, "sec": 0.52}
+{"cond": "C3", "id": "s13", "tier": "medium", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 73, "sec": 0.52}
+{"cond": "C3", "id": "s13", "tier": "medium", "label": true, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 73, "sec": 0.53}
+{"cond": "C3", "id": "s13", "tier": "medium", "label": true, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 70, "sec": 0.42}
+{"cond": "C3", "id": "s13", "tier": "medium", "label": true, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 83, "sec": 0.46}
+{"cond": "C3", "id": "s13", "tier": "medium", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 70, "sec": 0.4}
+{"cond": "C1", "id": "s14", "tier": "medium", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1", "finish": "stop", "completion_tokens": 137, "sec": 0.84}
+{"cond": "C1", "id": "s14", "tier": "medium", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 161, "sec": 0.82}
+{"cond": "C1", "id": "s14", "tier": "medium", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1", "finish": "stop", "completion_tokens": 132, "sec": 0.75}
+{"cond": "C2", "id": "s14", "tier": "medium", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 108, "sec": 0.69}
+{"cond": "C2", "id": "s14", "tier": "medium", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 139, "sec": 0.86}
+{"cond": "C2", "id": "s14", "tier": "medium", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 124, "sec": 0.72}
+{"cond": "C3", "id": "s14", "tier": "medium", "label": true, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 111, "sec": 0.65}
+{"cond": "C3", "id": "s14", "tier": "medium", "label": true, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 95, "sec": 0.52}
+{"cond": "C3", "id": "s14", "tier": "medium", "label": true, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 110, "sec": 0.61}
+{"cond": "C3", "id": "s14", "tier": "medium", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 129, "sec": 0.68}
+{"cond": "C3", "id": "s14", "tier": "medium", "label": true, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 96, "sec": 0.54}
+{"cond": "C3", "id": "s14", "tier": "medium", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 106, "sec": 0.67}
+{"cond": "C3", "id": "s14", "tier": "medium", "label": true, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 93, "sec": 0.53}
+{"cond": "C3", "id": "s14", "tier": "medium", "label": true, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 129, "sec": 0.67}
+{"cond": "C3", "id": "s14", "tier": "medium", "label": true, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 95, "sec": 0.51}
+{"cond": "C3", "id": "s14", "tier": "medium", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 105, "sec": 0.59}
+{"cond": "C1", "id": "s15", "tier": "medium", "label": true, "rep": 0, "answer": "TAK", "conf": 0.98, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.98", "finish": "stop", "completion_tokens": 142, "sec": 0.84}
+{"cond": "C1", "id": "s15", "tier": "medium", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 140, "sec": 0.86}
+{"cond": "C1", "id": "s15", "tier": "medium", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1", "finish": "stop", "completion_tokens": 169, "sec": 1.05}
+{"cond": "C2", "id": "s15", "tier": "medium", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 162, "sec": 0.95}
+{"cond": "C2", "id": "s15", "tier": "medium", "label": true, "rep": 1, "answer": "TAK", "conf": 0.98, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.98", "finish": "stop", "completion_tokens": 215, "sec": 1.34}
+{"cond": "C2", "id": "s15", "tier": "medium", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 106, "sec": 0.55}
+{"cond": "C3", "id": "s15", "tier": "medium", "label": true, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 118, "sec": 0.66}
+{"cond": "C3", "id": "s15", "tier": "medium", "label": true, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 122, "sec": 0.74}
+{"cond": "C3", "id": "s15", "tier": "medium", "label": true, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 142, "sec": 0.9}
+{"cond": "C3", "id": "s15", "tier": "medium", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 146, "sec": 0.93}
+{"cond": "C3", "id": "s15", "tier": "medium", "label": true, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 127, "sec": 0.8}
+{"cond": "C3", "id": "s15", "tier": "medium", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 203, "sec": 1.26}
+{"cond": "C3", "id": "s15", "tier": "medium", "label": true, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 125, "sec": 0.69}
+{"cond": "C3", "id": "s15", "tier": "medium", "label": true, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 147, "sec": 1.14}
+{"cond": "C3", "id": "s15", "tier": "medium", "label": true, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 116, "sec": 0.72}
+{"cond": "C3", "id": "s15", "tier": "medium", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 90, "sec": 0.52}
+{"cond": "C1", "id": "s16", "tier": "medium", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 118, "sec": 0.86}
+{"cond": "C1", "id": "s16", "tier": "medium", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1", "finish": "stop", "completion_tokens": 132, "sec": 0.79}
+{"cond": "C1", "id": "s16", "tier": "medium", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1", "finish": "stop", "completion_tokens": 136, "sec": 0.79}
+{"cond": "C2", "id": "s16", "tier": "medium", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 120, "sec": 0.72}
+{"cond": "C2", "id": "s16", "tier": "medium", "label": true, "rep": 1, "answer": "TAK", "conf": 0.99, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.99", "finish": "stop", "completion_tokens": 169, "sec": 1.04}
+{"cond": "C2", "id": "s16", "tier": "medium", "label": true, "rep": 2, "answer": "TAK", "conf": 0.99, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.99", "finish": "stop", "completion_tokens": 108, "sec": 0.7}
+{"cond": "C3", "id": "s16", "tier": "medium", "label": true, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 119, "sec": 0.87}
+{"cond": "C3", "id": "s16", "tier": "medium", "label": true, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 151, "sec": 0.95}
+{"cond": "C3", "id": "s16", "tier": "medium", "label": true, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 107, "sec": 0.63}
+{"cond": "C3", "id": "s16", "tier": "medium", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 109, "sec": 0.64}
+{"cond": "C3", "id": "s16", "tier": "medium", "label": true, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 108, "sec": 0.63}
+{"cond": "C3", "id": "s16", "tier": "medium", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 105, "sec": 0.63}
+{"cond": "C3", "id": "s16", "tier": "medium", "label": true, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 103, "sec": 0.62}
+{"cond": "C3", "id": "s16", "tier": "medium", "label": true, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 117, "sec": 0.81}
+{"cond": "C3", "id": "s16", "tier": "medium", "label": true, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 95, "sec": 0.67}
+{"cond": "C3", "id": "s16", "tier": "medium", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 107, "sec": 0.71}
+{"cond": "C1", "id": "s17", "tier": "medium", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1", "finish": "stop", "completion_tokens": 122, "sec": 0.68}
+{"cond": "C1", "id": "s17", "tier": "medium", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1", "finish": "stop", "completion_tokens": 133, "sec": 0.71}
+{"cond": "C1", "id": "s17", "tier": "medium", "label": true, "rep": 2, "answer": "TAK", "conf": 0.99, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.99", "finish": "stop", "completion_tokens": 145, "sec": 0.79}
+{"cond": "C2", "id": "s17", "tier": "medium", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 168, "sec": 0.98}
+{"cond": "C2", "id": "s17", "tier": "medium", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 147, "sec": 0.86}
+{"cond": "C2", "id": "s17", "tier": "medium", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 120, "sec": 0.71}
+{"cond": "C3", "id": "s17", "tier": "medium", "label": true, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 112, "sec": 0.68}
+{"cond": "C3", "id": "s17", "tier": "medium", "label": true, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 116, "sec": 0.7}
+{"cond": "C3", "id": "s17", "tier": "medium", "label": true, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 115, "sec": 0.72}
+{"cond": "C3", "id": "s17", "tier": "medium", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 109, "sec": 0.62}
+{"cond": "C3", "id": "s17", "tier": "medium", "label": true, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 112, "sec": 0.59}
+{"cond": "C3", "id": "s17", "tier": "medium", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 112, "sec": 0.69}
+{"cond": "C3", "id": "s17", "tier": "medium", "label": true, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 119, "sec": 0.71}
+{"cond": "C3", "id": "s17", "tier": "medium", "label": true, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 110, "sec": 0.63}
+{"cond": "C3", "id": "s17", "tier": "medium", "label": true, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 108, "sec": 0.61}
+{"cond": "C3", "id": "s17", "tier": "medium", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 119, "sec": 0.75}
+{"cond": "C1", "id": "s18", "tier": "medium", "label": false, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 107, "sec": 0.63}
+{"cond": "C1", "id": "s18", "tier": "medium", "label": false, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1", "finish": "stop", "completion_tokens": 114, "sec": 0.64}
+{"cond": "C1", "id": "s18", "tier": "medium", "label": false, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 150, "sec": 0.83}
+{"cond": "C2", "id": "s18", "tier": "medium", "label": false, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 159, "sec": 0.96}
+{"cond": "C2", "id": "s18", "tier": "medium", "label": false, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 162, "sec": 0.85}
+{"cond": "C2", "id": "s18", "tier": "medium", "label": false, "rep": 2, "answer": "NIE", "conf": 0.99, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.99", "finish": "stop", "completion_tokens": 192, "sec": 1.12}
+{"cond": "C3", "id": "s18", "tier": "medium", "label": false, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 106, "sec": 0.65}
+{"cond": "C3", "id": "s18", "tier": "medium", "label": false, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 90, "sec": 0.52}
+{"cond": "C3", "id": "s18", "tier": "medium", "label": false, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 112, "sec": 0.71}
+{"cond": "C3", "id": "s18", "tier": "medium", "label": false, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 108, "sec": 0.62}
+{"cond": "C3", "id": "s18", "tier": "medium", "label": false, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 82, "sec": 0.48}
+{"cond": "C3", "id": "s18", "tier": "medium", "label": false, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 107, "sec": 0.61}
+{"cond": "C3", "id": "s18", "tier": "medium", "label": false, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 71, "sec": 0.39}
+{"cond": "C3", "id": "s18", "tier": "medium", "label": false, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 118, "sec": 0.74}
+{"cond": "C3", "id": "s18", "tier": "medium", "label": false, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 156, "sec": 0.9}
+{"cond": "C3", "id": "s18", "tier": "medium", "label": false, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 142, "sec": 0.85}
+{"cond": "C1", "id": "s19", "tier": "medium", "label": false, "rep": 0, "answer": "NIE", "conf": 0.98, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.98", "finish": "stop", "completion_tokens": 302, "sec": 1.75}
+{"cond": "C1", "id": "s19", "tier": "medium", "label": false, "rep": 1, "answer": "NIE", "conf": 0.95, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.95", "finish": "stop", "completion_tokens": 162, "sec": 1.0}
+{"cond": "C1", "id": "s19", "tier": "medium", "label": false, "rep": 2, "answer": "NIE", "conf": 0.95, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.95", "finish": "stop", "completion_tokens": 176, "sec": 1.05}
+{"cond": "C2", "id": "s19", "tier": "medium", "label": false, "rep": 0, "answer": "NIE", "conf": 0.95, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.95", "finish": "stop", "completion_tokens": 283, "sec": 1.66}
+{"cond": "C2", "id": "s19", "tier": "medium", "label": false, "rep": 1, "answer": "NIE", "conf": 0.98, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.98", "finish": "stop", "completion_tokens": 248, "sec": 1.38}
+{"cond": "C2", "id": "s19", "tier": "medium", "label": false, "rep": 2, "answer": "NIE", "conf": 0.98, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.98", "finish": "stop", "completion_tokens": 212, "sec": 1.19}
+{"cond": "C3", "id": "s19", "tier": "medium", "label": false, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 172, "sec": 1.09}
+{"cond": "C3", "id": "s19", "tier": "medium", "label": false, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 152, "sec": 0.98}
+{"cond": "C3", "id": "s19", "tier": "medium", "label": false, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 145, "sec": 0.86}
+{"cond": "C3", "id": "s19", "tier": "medium", "label": false, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 193, "sec": 1.24}
+{"cond": "C3", "id": "s19", "tier": "medium", "label": false, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 187, "sec": 1.09}
+{"cond": "C3", "id": "s19", "tier": "medium", "label": false, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 168, "sec": 1.01}
+{"cond": "C3", "id": "s19", "tier": "medium", "label": false, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 188, "sec": 1.11}
+{"cond": "C3", "id": "s19", "tier": "medium", "label": false, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 160, "sec": 0.99}
+{"cond": "C3", "id": "s19", "tier": "medium", "label": false, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 148, "sec": 0.92}
+{"cond": "C3", "id": "s19", "tier": "medium", "label": false, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 154, "sec": 0.99}
+{"cond": "C1", "id": "s20", "tier": "medium", "label": true, "rep": 0, "answer": null, "conf": null, "raw": "", "finish": "length", "completion_tokens": 700, "sec": 4.4}
+{"cond": "C1", "id": "s20", "tier": "medium", "label": true, "rep": 1, "answer": null, "conf": null, "raw": "", "finish": "length", "completion_tokens": 700, "sec": 4.7}
+{"cond": "C1", "id": "s20", "tier": "medium", "label": true, "rep": 2, "answer": null, "conf": null, "raw": "", "finish": "length", "completion_tokens": 700, "sec": 4.2}
+{"cond": "C2", "id": "s20", "tier": "medium", "label": true, "rep": 0, "answer": null, "conf": null, "raw": "", "finish": "length", "completion_tokens": 700, "sec": 4.71}
+{"cond": "C2", "id": "s20", "tier": "medium", "label": true, "rep": 1, "answer": "TAK", "conf": 0.95, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.95", "finish": "stop", "completion_tokens": 365, "sec": 2.19}
+{"cond": "C2", "id": "s20", "tier": "medium", "label": true, "rep": 2, "answer": null, "conf": null, "raw": "", "finish": "length", "completion_tokens": 700, "sec": 4.63}
+{"cond": "C3", "id": "s20", "tier": "medium", "label": true, "rep": 0, "answer": null, "conf": null, "raw": "", "finish": "length", "completion_tokens": 400, "sec": 2.63}
+{"cond": "C3", "id": "s20", "tier": "medium", "label": true, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 293, "sec": 1.66}
+{"cond": "C3", "id": "s20", "tier": "medium", "label": true, "rep": 2, "answer": null, "conf": null, "raw": "", "finish": "length", "completion_tokens": 400, "sec": 2.61}
+{"cond": "C3", "id": "s20", "tier": "medium", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 303, "sec": 2.01}
+{"cond": "C3", "id": "s20", "tier": "medium", "label": true, "rep": 4, "answer": null, "conf": null, "raw": "", "finish": "length", "completion_tokens": 400, "sec": 2.63}
+{"cond": "C3", "id": "s20", "tier": "medium", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 331, "sec": 1.77}
+{"cond": "C3", "id": "s20", "tier": "medium", "label": true, "rep": 6, "answer": null, "conf": null, "raw": "", "finish": "length", "completion_tokens": 400, "sec": 2.75}
+{"cond": "C3", "id": "s20", "tier": "medium", "label": true, "rep": 7, "answer": null, "conf": null, "raw": "", "finish": "length", "completion_tokens": 400, "sec": 2.28}
+{"cond": "C3", "id": "s20", "tier": "medium", "label": true, "rep": 8, "answer": null, "conf": null, "raw": "", "finish": "length", "completion_tokens": 400, "sec": 2.62}
+{"cond": "C3", "id": "s20", "tier": "medium", "label": true, "rep": 9, "answer": null, "conf": null, "raw": "", "finish": "length", "completion_tokens": 400, "sec": 2.18}
+{"cond": "C1", "id": "s21", "tier": "medium", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 113, "sec": 0.62}
+{"cond": "C1", "id": "s21", "tier": "medium", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1", "finish": "stop", "completion_tokens": 145, "sec": 0.87}
+{"cond": "C1", "id": "s21", "tier": "medium", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1", "finish": "stop", "completion_tokens": 114, "sec": 0.66}
+{"cond": "C2", "id": "s21", "tier": "medium", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 127, "sec": 0.77}
+{"cond": "C2", "id": "s21", "tier": "medium", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 103, "sec": 0.67}
+{"cond": "C2", "id": "s21", "tier": "medium", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 137, "sec": 0.74}
+{"cond": "C3", "id": "s21", "tier": "medium", "label": true, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 84, "sec": 0.5}
+{"cond": "C3", "id": "s21", "tier": "medium", "label": true, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 83, "sec": 0.45}
+{"cond": "C3", "id": "s21", "tier": "medium", "label": true, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 83, "sec": 0.45}
+{"cond": "C3", "id": "s21", "tier": "medium", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 83, "sec": 0.49}
+{"cond": "C3", "id": "s21", "tier": "medium", "label": true, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 84, "sec": 0.52}
+{"cond": "C3", "id": "s21", "tier": "medium", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 83, "sec": 0.53}
+{"cond": "C3", "id": "s21", "tier": "medium", "label": true, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 83, "sec": 0.52}
+{"cond": "C3", "id": "s21", "tier": "medium", "label": true, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 83, "sec": 0.52}
+{"cond": "C3", "id": "s21", "tier": "medium", "label": true, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 83, "sec": 0.52}
+{"cond": "C3", "id": "s21", "tier": "medium", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 84, "sec": 0.53}
+{"cond": "C1", "id": "s22", "tier": "medium", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 145, "sec": 0.86}
+{"cond": "C1", "id": "s22", "tier": "medium", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 133, "sec": 0.8}
+{"cond": "C1", "id": "s22", "tier": "medium", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1", "finish": "stop", "completion_tokens": 142, "sec": 0.96}
+{"cond": "C2", "id": "s22", "tier": "medium", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 131, "sec": 0.86}
+{"cond": "C2", "id": "s22", "tier": "medium", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 184, "sec": 0.95}
+{"cond": "C2", "id": "s22", "tier": "medium", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 124, "sec": 0.7}
+{"cond": "C3", "id": "s22", "tier": "medium", "label": true, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 89, "sec": 0.64}
+{"cond": "C3", "id": "s22", "tier": "medium", "label": true, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 102, "sec": 0.67}
+{"cond": "C3", "id": "s22", "tier": "medium", "label": true, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 90, "sec": 0.54}
+{"cond": "C3", "id": "s22", "tier": "medium", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 111, "sec": 0.69}
+{"cond": "C3", "id": "s22", "tier": "medium", "label": true, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 90, "sec": 0.53}
+{"cond": "C3", "id": "s22", "tier": "medium", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 112, "sec": 0.71}
+{"cond": "C3", "id": "s22", "tier": "medium", "label": true, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 101, "sec": 0.63}
+{"cond": "C3", "id": "s22", "tier": "medium", "label": true, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 95, "sec": 0.54}
+{"cond": "C3", "id": "s22", "tier": "medium", "label": true, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 89, "sec": 0.51}
+{"cond": "C3", "id": "s22", "tier": "medium", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 96, "sec": 0.61}
+{"cond": "C1", "id": "s23", "tier": "medium", "label": true, "rep": 0, "answer": "TAK", "conf": 0.99, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.99", "finish": "stop", "completion_tokens": 189, "sec": 1.18}
+{"cond": "C1", "id": "s23", "tier": "medium", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 144, "sec": 0.81}
+{"cond": "C1", "id": "s23", "tier": "medium", "label": true, "rep": 2, "answer": "TAK", "conf": 0.99, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.99", "finish": "stop", "completion_tokens": 175, "sec": 0.96}
+{"cond": "C2", "id": "s23", "tier": "medium", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 155, "sec": 0.95}
+{"cond": "C2", "id": "s23", "tier": "medium", "label": true, "rep": 1, "answer": "TAK", "conf": 0.99, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.99", "finish": "stop", "completion_tokens": 210, "sec": 1.27}
+{"cond": "C2", "id": "s23", "tier": "medium", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 141, "sec": 0.74}
+{"cond": "C3", "id": "s23", "tier": "medium", "label": true, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 119, "sec": 0.71}
+{"cond": "C3", "id": "s23", "tier": "medium", "label": true, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 125, "sec": 0.74}
+{"cond": "C3", "id": "s23", "tier": "medium", "label": true, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 139, "sec": 0.82}
+{"cond": "C3", "id": "s23", "tier": "medium", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 111, "sec": 0.65}
+{"cond": "C3", "id": "s23", "tier": "medium", "label": true, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 113, "sec": 0.73}
+{"cond": "C3", "id": "s23", "tier": "medium", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 114, "sec": 0.72}
+{"cond": "C3", "id": "s23", "tier": "medium", "label": true, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 145, "sec": 0.87}
+{"cond": "C3", "id": "s23", "tier": "medium", "label": true, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 99, "sec": 0.54}
+{"cond": "C3", "id": "s23", "tier": "medium", "label": true, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 117, "sec": 0.68}
+{"cond": "C3", "id": "s23", "tier": "medium", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 108, "sec": 0.64}
+{"cond": "C1", "id": "s24", "tier": "medium", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1", "finish": "stop", "completion_tokens": 132, "sec": 0.76}
+{"cond": "C1", "id": "s24", "tier": "medium", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1", "finish": "stop", "completion_tokens": 126, "sec": 0.7}
+{"cond": "C1", "id": "s24", "tier": "medium", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1", "finish": "stop", "completion_tokens": 130, "sec": 0.7}
+{"cond": "C2", "id": "s24", "tier": "medium", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 191, "sec": 1.06}
+{"cond": "C2", "id": "s24", "tier": "medium", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 328, "sec": 2.01}
+{"cond": "C2", "id": "s24", "tier": "medium", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 119, "sec": 0.75}
+{"cond": "C3", "id": "s24", "tier": "medium", "label": true, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 128, "sec": 0.83}
+{"cond": "C3", "id": "s24", "tier": "medium", "label": true, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 118, "sec": 0.74}
+{"cond": "C3", "id": "s24", "tier": "medium", "label": true, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 94, "sec": 0.61}
+{"cond": "C3", "id": "s24", "tier": "medium", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 110, "sec": 0.66}
+{"cond": "C3", "id": "s24", "tier": "medium", "label": true, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 98, "sec": 0.63}
+{"cond": "C3", "id": "s24", "tier": "medium", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 108, "sec": 0.77}
+{"cond": "C3", "id": "s24", "tier": "medium", "label": true, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 108, "sec": 0.68}
+{"cond": "C3", "id": "s24", "tier": "medium", "label": true, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 101, "sec": 0.66}
+{"cond": "C3", "id": "s24", "tier": "medium", "label": true, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 94, "sec": 0.61}
+{"cond": "C3", "id": "s24", "tier": "medium", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 103, "sec": 0.81}
+{"cond": "C1", "id": "s25", "tier": "medium", "label": false, "rep": 0, "answer": "NIE", "conf": 0.95, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.95", "finish": "stop", "completion_tokens": 198, "sec": 1.11}
+{"cond": "C1", "id": "s25", "tier": "medium", "label": false, "rep": 1, "answer": "NIE", "conf": 0.95, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.95", "finish": "stop", "completion_tokens": 152, "sec": 0.85}
+{"cond": "C1", "id": "s25", "tier": "medium", "label": false, "rep": 2, "answer": "NIE", "conf": 0.95, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.95", "finish": "stop", "completion_tokens": 178, "sec": 0.99}
+{"cond": "C2", "id": "s25", "tier": "medium", "label": false, "rep": 0, "answer": "NIE", "conf": 0.95, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.95", "finish": "stop", "completion_tokens": 223, "sec": 1.24}
+{"cond": "C2", "id": "s25", "tier": "medium", "label": false, "rep": 1, "answer": "NIE", "conf": 0.95, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.95", "finish": "stop", "completion_tokens": 233, "sec": 1.29}
+{"cond": "C2", "id": "s25", "tier": "medium", "label": false, "rep": 2, "answer": "NIE", "conf": 0.95, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.95", "finish": "stop", "completion_tokens": 177, "sec": 1.14}
+{"cond": "C3", "id": "s25", "tier": "medium", "label": false, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 116, "sec": 0.71}
+{"cond": "C3", "id": "s25", "tier": "medium", "label": false, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 177, "sec": 1.05}
+{"cond": "C3", "id": "s25", "tier": "medium", "label": false, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 133, "sec": 0.86}
+{"cond": "C3", "id": "s25", "tier": "medium", "label": false, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 127, "sec": 0.77}
+{"cond": "C3", "id": "s25", "tier": "medium", "label": false, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 93, "sec": 0.55}
+{"cond": "C3", "id": "s25", "tier": "medium", "label": false, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 134, "sec": 0.85}
+{"cond": "C3", "id": "s25", "tier": "medium", "label": false, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 179, "sec": 1.16}
+{"cond": "C3", "id": "s25", "tier": "medium", "label": false, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 149, "sec": 0.87}
+{"cond": "C3", "id": "s25", "tier": "medium", "label": false, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 136, "sec": 0.84}
+{"cond": "C3", "id": "s25", "tier": "medium", "label": false, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 124, "sec": 0.74}
+{"cond": "C1", "id": "s26", "tier": "medium", "label": true, "rep": 0, "answer": null, "conf": null, "raw": "", "finish": "length", "completion_tokens": 700, "sec": 4.56}
+{"cond": "C1", "id": "s26", "tier": "medium", "label": true, "rep": 1, "answer": "TAK", "conf": 0.9, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.9", "finish": "stop", "completion_tokens": 348, "sec": 2.24}
+{"cond": "C1", "id": "s26", "tier": "medium", "label": true, "rep": 2, "answer": "TAK", "conf": 0.9, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.9", "finish": "stop", "completion_tokens": 635, "sec": 4.23}
+{"cond": "C2", "id": "s26", "tier": "medium", "label": true, "rep": 0, "answer": "TAK", "conf": 0.95, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.95", "finish": "stop", "completion_tokens": 700, "sec": 4.52}
+{"cond": "C2", "id": "s26", "tier": "medium", "label": true, "rep": 1, "answer": "TAK", "conf": 0.9, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.90", "finish": "stop", "completion_tokens": 408, "sec": 2.45}
+{"cond": "C2", "id": "s26", "tier": "medium", "label": true, "rep": 2, "answer": null, "conf": null, "raw": "", "finish": "length", "completion_tokens": 700, "sec": 4.6}
+{"cond": "C3", "id": "s26", "tier": "medium", "label": true, "rep": 0, "answer": null, "conf": null, "raw": "", "finish": "length", "completion_tokens": 400, "sec": 2.73}
+{"cond": "C3", "id": "s26", "tier": "medium", "label": true, "rep": 1, "answer": null, "conf": null, "raw": "", "finish": "length", "completion_tokens": 400, "sec": 2.44}
+{"cond": "C3", "id": "s26", "tier": "medium", "label": true, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 222, "sec": 1.37}
+{"cond": "C3", "id": "s26", "tier": "medium", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 165, "sec": 1.03}
+{"cond": "C3", "id": "s26", "tier": "medium", "label": true, "rep": 4, "answer": null, "conf": null, "raw": "", "finish": "length", "completion_tokens": 400, "sec": 2.39}
+{"cond": "C3", "id": "s26", "tier": "medium", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 183, "sec": 1.15}
+{"cond": "C3", "id": "s26", "tier": "medium", "label": true, "rep": 6, "answer": null, "conf": null, "raw": "", "finish": "length", "completion_tokens": 400, "sec": 2.7}
+{"cond": "C3", "id": "s26", "tier": "medium", "label": true, "rep": 7, "answer": null, "conf": null, "raw": "", "finish": "length", "completion_tokens": 400, "sec": 2.62}
+{"cond": "C3", "id": "s26", "tier": "medium", "label": true, "rep": 8, "answer": null, "conf": null, "raw": "", "finish": "length", "completion_tokens": 400, "sec": 2.55}
+{"cond": "C3", "id": "s26", "tier": "medium", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 172, "sec": 1.06}
+{"cond": "C1", "id": "s27", "tier": "hard", "label": false, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1", "finish": "stop", "completion_tokens": 196, "sec": 1.15}
+{"cond": "C1", "id": "s27", "tier": "hard", "label": false, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 104, "sec": 0.58}
+{"cond": "C1", "id": "s27", "tier": "hard", "label": false, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 133, "sec": 0.75}
+{"cond": "C2", "id": "s27", "tier": "hard", "label": false, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 103, "sec": 0.66}
+{"cond": "C2", "id": "s27", "tier": "hard", "label": false, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 102, "sec": 0.55}
+{"cond": "C2", "id": "s27", "tier": "hard", "label": false, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 129, "sec": 0.67}
+{"cond": "C3", "id": "s27", "tier": "hard", "label": false, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 79, "sec": 0.47}
+{"cond": "C3", "id": "s27", "tier": "hard", "label": false, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 65, "sec": 0.4}
+{"cond": "C3", "id": "s27", "tier": "hard", "label": false, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 84, "sec": 0.52}
+{"cond": "C3", "id": "s27", "tier": "hard", "label": false, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 79, "sec": 0.43}
+{"cond": "C3", "id": "s27", "tier": "hard", "label": false, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 87, "sec": 0.5}
+{"cond": "C3", "id": "s27", "tier": "hard", "label": false, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 78, "sec": 0.45}
+{"cond": "C3", "id": "s27", "tier": "hard", "label": false, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 97, "sec": 0.57}
+{"cond": "C3", "id": "s27", "tier": "hard", "label": false, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 87, "sec": 0.48}
+{"cond": "C3", "id": "s27", "tier": "hard", "label": false, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 61, "sec": 0.34}
+{"cond": "C3", "id": "s27", "tier": "hard", "label": false, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 85, "sec": 0.45}
+{"cond": "C1", "id": "s28", "tier": "hard", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 129, "sec": 0.88}
+{"cond": "C1", "id": "s28", "tier": "hard", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1", "finish": "stop", "completion_tokens": 167, "sec": 1.0}
+{"cond": "C1", "id": "s28", "tier": "hard", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1", "finish": "stop", "completion_tokens": 166, "sec": 1.01}
+{"cond": "C2", "id": "s28", "tier": "hard", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 194, "sec": 1.07}
+{"cond": "C2", "id": "s28", "tier": "hard", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 145, "sec": 1.01}
+{"cond": "C2", "id": "s28", "tier": "hard", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 181, "sec": 1.1}
+{"cond": "C3", "id": "s28", "tier": "hard", "label": true, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 114, "sec": 0.72}
+{"cond": "C3", "id": "s28", "tier": "hard", "label": true, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 118, "sec": 0.71}
+{"cond": "C3", "id": "s28", "tier": "hard", "label": true, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 109, "sec": 0.69}
+{"cond": "C3", "id": "s28", "tier": "hard", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 111, "sec": 0.68}
+{"cond": "C3", "id": "s28", "tier": "hard", "label": true, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 124, "sec": 0.83}
+{"cond": "C3", "id": "s28", "tier": "hard", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 123, "sec": 0.79}
+{"cond": "C3", "id": "s28", "tier": "hard", "label": true, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 106, "sec": 0.64}
+{"cond": "C3", "id": "s28", "tier": "hard", "label": true, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 103, "sec": 0.66}
+{"cond": "C3", "id": "s28", "tier": "hard", "label": true, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 108, "sec": 0.72}
+{"cond": "C3", "id": "s28", "tier": "hard", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 106, "sec": 0.73}
+{"cond": "C1", "id": "s29", "tier": "hard", "label": false, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1", "finish": "stop", "completion_tokens": 120, "sec": 0.71}
+{"cond": "C1", "id": "s29", "tier": "hard", "label": false, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 123, "sec": 0.68}
+{"cond": "C1", "id": "s29", "tier": "hard", "label": false, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 169, "sec": 1.02}
+{"cond": "C2", "id": "s29", "tier": "hard", "label": false, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 130, "sec": 0.86}
+{"cond": "C2", "id": "s29", "tier": "hard", "label": false, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 162, "sec": 0.9}
+{"cond": "C2", "id": "s29", "tier": "hard", "label": false, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 109, "sec": 0.67}
+{"cond": "C3", "id": "s29", "tier": "hard", "label": false, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 76, "sec": 0.52}
+{"cond": "C3", "id": "s29", "tier": "hard", "label": false, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 88, "sec": 0.56}
+{"cond": "C3", "id": "s29", "tier": "hard", "label": false, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 78, "sec": 0.49}
+{"cond": "C3", "id": "s29", "tier": "hard", "label": false, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 80, "sec": 0.53}
+{"cond": "C3", "id": "s29", "tier": "hard", "label": false, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 102, "sec": 0.58}
+{"cond": "C3", "id": "s29", "tier": "hard", "label": false, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 76, "sec": 0.47}
+{"cond": "C3", "id": "s29", "tier": "hard", "label": false, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 77, "sec": 0.5}
+{"cond": "C3", "id": "s29", "tier": "hard", "label": false, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 111, "sec": 0.73}
+{"cond": "C3", "id": "s29", "tier": "hard", "label": false, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 119, "sec": 0.71}
+{"cond": "C3", "id": "s29", "tier": "hard", "label": false, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 103, "sec": 0.67}
+{"cond": "C1", "id": "s30", "tier": "hard", "label": false, "rep": 0, "answer": "NIE", "conf": 0.98, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.98", "finish": "stop", "completion_tokens": 150, "sec": 1.04}
+{"cond": "C1", "id": "s30", "tier": "hard", "label": false, "rep": 1, "answer": "NIE", "conf": 0.98, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.98", "finish": "stop", "completion_tokens": 198, "sec": 1.15}
+{"cond": "C1", "id": "s30", "tier": "hard", "label": false, "rep": 2, "answer": "NIE", "conf": 0.98, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.98", "finish": "stop", "completion_tokens": 188, "sec": 1.14}
+{"cond": "C2", "id": "s30", "tier": "hard", "label": false, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 174, "sec": 0.95}
+{"cond": "C2", "id": "s30", "tier": "hard", "label": false, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 242, "sec": 1.28}
+{"cond": "C2", "id": "s30", "tier": "hard", "label": false, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 184, "sec": 1.25}
+{"cond": "C3", "id": "s30", "tier": "hard", "label": false, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 98, "sec": 0.72}
+{"cond": "C3", "id": "s30", "tier": "hard", "label": false, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 90, "sec": 0.58}
+{"cond": "C3", "id": "s30", "tier": "hard", "label": false, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 88, "sec": 0.58}
+{"cond": "C3", "id": "s30", "tier": "hard", "label": false, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 87, "sec": 0.57}
+{"cond": "C3", "id": "s30", "tier": "hard", "label": false, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 98, "sec": 0.71}
+{"cond": "C3", "id": "s30", "tier": "hard", "label": false, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 87, "sec": 0.53}
+{"cond": "C3", "id": "s30", "tier": "hard", "label": false, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 99, "sec": 0.71}
+{"cond": "C3", "id": "s30", "tier": "hard", "label": false, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 99, "sec": 0.61}
+{"cond": "C3", "id": "s30", "tier": "hard", "label": false, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 82, "sec": 0.51}
+{"cond": "C3", "id": "s30", "tier": "hard", "label": false, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 91, "sec": 0.62}
+{"cond": "C1", "id": "s31", "tier": "hard", "label": false, "rep": 0, "answer": "NIE", "conf": 0.95, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.95", "finish": "stop", "completion_tokens": 187, "sec": 1.11}
+{"cond": "C1", "id": "s31", "tier": "hard", "label": false, "rep": 1, "answer": "NIE", "conf": 0.95, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.95", "finish": "stop", "completion_tokens": 212, "sec": 1.34}
+{"cond": "C1", "id": "s31", "tier": "hard", "label": false, "rep": 2, "answer": "NIE", "conf": 0.98, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.98", "finish": "stop", "completion_tokens": 291, "sec": 1.64}
+{"cond": "C2", "id": "s31", "tier": "hard", "label": false, "rep": 0, "answer": "NIE", "conf": 0.98, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.98", "finish": "stop", "completion_tokens": 275, "sec": 1.64}
+{"cond": "C2", "id": "s31", "tier": "hard", "label": false, "rep": 1, "answer": "NIE", "conf": 0.95, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.95", "finish": "stop", "completion_tokens": 477, "sec": 3.34}
+{"cond": "C2", "id": "s31", "tier": "hard", "label": false, "rep": 2, "answer": "NIE", "conf": 0.95, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.95", "finish": "stop", "completion_tokens": 187, "sec": 1.11}
+{"cond": "C3", "id": "s31", "tier": "hard", "label": false, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 165, "sec": 1.17}
+{"cond": "C3", "id": "s31", "tier": "hard", "label": false, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 127, "sec": 0.87}
+{"cond": "C3", "id": "s31", "tier": "hard", "label": false, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 123, "sec": 0.75}
+{"cond": "C3", "id": "s31", "tier": "hard", "label": false, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 147, "sec": 1.01}
+{"cond": "C3", "id": "s31", "tier": "hard", "label": false, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 177, "sec": 1.14}
+{"cond": "C3", "id": "s31", "tier": "hard", "label": false, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 147, "sec": 0.95}
+{"cond": "C3", "id": "s31", "tier": "hard", "label": false, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 166, "sec": 1.05}
+{"cond": "C3", "id": "s31", "tier": "hard", "label": false, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 164, "sec": 1.05}
+{"cond": "C3", "id": "s31", "tier": "hard", "label": false, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 156, "sec": 1.05}
+{"cond": "C3", "id": "s31", "tier": "hard", "label": false, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 146, "sec": 0.93}
+{"cond": "C1", "id": "s32", "tier": "hard", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1", "finish": "stop", "completion_tokens": 117, "sec": 0.69}
+{"cond": "C1", "id": "s32", "tier": "hard", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1", "finish": "stop", "completion_tokens": 141, "sec": 0.82}
+{"cond": "C1", "id": "s32", "tier": "hard", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 270, "sec": 1.56}
+{"cond": "C2", "id": "s32", "tier": "hard", "label": true, "rep": 0, "answer": "TAK", "conf": 0.99, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.99", "finish": "stop", "completion_tokens": 150, "sec": 1.05}
+{"cond": "C2", "id": "s32", "tier": "hard", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 141, "sec": 0.83}
+{"cond": "C2", "id": "s32", "tier": "hard", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 153, "sec": 0.93}
+{"cond": "C3", "id": "s32", "tier": "hard", "label": true, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 75, "sec": 0.54}
+{"cond": "C3", "id": "s32", "tier": "hard", "label": true, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 117, "sec": 0.85}
+{"cond": "C3", "id": "s32", "tier": "hard", "label": true, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 95, "sec": 0.71}
+{"cond": "C3", "id": "s32", "tier": "hard", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 84, "sec": 0.52}
+{"cond": "C3", "id": "s32", "tier": "hard", "label": true, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 101, "sec": 0.61}
+{"cond": "C3", "id": "s32", "tier": "hard", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 85, "sec": 0.53}
+{"cond": "C3", "id": "s32", "tier": "hard", "label": true, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 112, "sec": 0.77}
+{"cond": "C3", "id": "s32", "tier": "hard", "label": true, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 99, "sec": 0.71}
+{"cond": "C3", "id": "s32", "tier": "hard", "label": true, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 84, "sec": 0.54}
+{"cond": "C3", "id": "s32", "tier": "hard", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 106, "sec": 0.66}
+{"cond": "C1", "id": "s33", "tier": "hard", "label": false, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 206, "sec": 1.12}
+{"cond": "C1", "id": "s33", "tier": "hard", "label": false, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 187, "sec": 0.94}
+{"cond": "C1", "id": "s33", "tier": "hard", "label": false, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 290, "sec": 1.61}
+{"cond": "C2", "id": "s33", "tier": "hard", "label": false, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 197, "sec": 1.13}
+{"cond": "C2", "id": "s33", "tier": "hard", "label": false, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 205, "sec": 1.15}
+{"cond": "C2", "id": "s33", "tier": "hard", "label": false, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 226, "sec": 1.33}
+{"cond": "C3", "id": "s33", "tier": "hard", "label": false, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 148, "sec": 0.79}
+{"cond": "C3", "id": "s33", "tier": "hard", "label": false, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 138, "sec": 0.74}
+{"cond": "C3", "id": "s33", "tier": "hard", "label": false, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 221, "sec": 1.32}
+{"cond": "C3", "id": "s33", "tier": "hard", "label": false, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 133, "sec": 0.73}
+{"cond": "C3", "id": "s33", "tier": "hard", "label": false, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 124, "sec": 0.66}
+{"cond": "C3", "id": "s33", "tier": "hard", "label": false, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 143, "sec": 0.72}
+{"cond": "C3", "id": "s33", "tier": "hard", "label": false, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 139, "sec": 0.72}
+{"cond": "C3", "id": "s33", "tier": "hard", "label": false, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 160, "sec": 0.85}
+{"cond": "C3", "id": "s33", "tier": "hard", "label": false, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 228, "sec": 1.32}
+{"cond": "C3", "id": "s33", "tier": "hard", "label": false, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 134, "sec": 0.86}
+{"cond": "C1", "id": "s34", "tier": "hard", "label": true, "rep": 0, "answer": "TAK", "conf": 0.95, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.95", "finish": "stop", "completion_tokens": 163, "sec": 0.99}
+{"cond": "C1", "id": "s34", "tier": "hard", "label": true, "rep": 1, "answer": "TAK", "conf": 0.95, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.95", "finish": "stop", "completion_tokens": 226, "sec": 1.39}
+{"cond": "C1", "id": "s34", "tier": "hard", "label": true, "rep": 2, "answer": "TAK", "conf": 0.95, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.95", "finish": "stop", "completion_tokens": 479, "sec": 2.99}
+{"cond": "C2", "id": "s34", "tier": "hard", "label": true, "rep": 0, "answer": "TAK", "conf": 0.98, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.98", "finish": "stop", "completion_tokens": 143, "sec": 0.87}
+{"cond": "C2", "id": "s34", "tier": "hard", "label": true, "rep": 1, "answer": "TAK", "conf": 0.98, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.98", "finish": "stop", "completion_tokens": 195, "sec": 1.21}
+{"cond": "C2", "id": "s34", "tier": "hard", "label": true, "rep": 2, "answer": "TAK", "conf": 0.95, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.95", "finish": "stop", "completion_tokens": 212, "sec": 1.24}
+{"cond": "C3", "id": "s34", "tier": "hard", "label": true, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 168, "sec": 1.09}
+{"cond": "C3", "id": "s34", "tier": "hard", "label": true, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 188, "sec": 1.24}
+{"cond": "C3", "id": "s34", "tier": "hard", "label": true, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 182, "sec": 1.15}
+{"cond": "C3", "id": "s34", "tier": "hard", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 239, "sec": 1.45}
+{"cond": "C3", "id": "s34", "tier": "hard", "label": true, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 201, "sec": 1.24}
+{"cond": "C3", "id": "s34", "tier": "hard", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 113, "sec": 0.79}
+{"cond": "C3", "id": "s34", "tier": "hard", "label": true, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 191, "sec": 1.1}
+{"cond": "C3", "id": "s34", "tier": "hard", "label": true, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 257, "sec": 1.56}
+{"cond": "C3", "id": "s34", "tier": "hard", "label": true, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 278, "sec": 1.72}
+{"cond": "C3", "id": "s34", "tier": "hard", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 219, "sec": 1.43}
+{"cond": "C1", "id": "s35", "tier": "hard", "label": false, "rep": 0, "answer": "NIE", "conf": 0.95, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.95", "finish": "stop", "completion_tokens": 187, "sec": 1.19}
+{"cond": "C1", "id": "s35", "tier": "hard", "label": false, "rep": 1, "answer": "NIE", "conf": 0.95, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.95", "finish": "stop", "completion_tokens": 210, "sec": 1.21}
+{"cond": "C1", "id": "s35", "tier": "hard", "label": false, "rep": 2, "answer": "NIE", "conf": 0.95, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.95", "finish": "stop", "completion_tokens": 189, "sec": 1.09}
+{"cond": "C2", "id": "s35", "tier": "hard", "label": false, "rep": 0, "answer": "NIE", "conf": 0.95, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.95", "finish": "stop", "completion_tokens": 255, "sec": 1.48}
+{"cond": "C2", "id": "s35", "tier": "hard", "label": false, "rep": 1, "answer": "NIE", "conf": 0.98, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.98", "finish": "stop", "completion_tokens": 385, "sec": 2.31}
+{"cond": "C2", "id": "s35", "tier": "hard", "label": false, "rep": 2, "answer": "NIE", "conf": 0.95, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.95", "finish": "stop", "completion_tokens": 281, "sec": 1.66}
+{"cond": "C3", "id": "s35", "tier": "hard", "label": false, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 161, "sec": 1.15}
+{"cond": "C3", "id": "s35", "tier": "hard", "label": false, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 234, "sec": 1.4}
+{"cond": "C3", "id": "s35", "tier": "hard", "label": false, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 143, "sec": 0.9}
+{"cond": "C3", "id": "s35", "tier": "hard", "label": false, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 135, "sec": 0.74}
+{"cond": "C3", "id": "s35", "tier": "hard", "label": false, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 216, "sec": 1.34}
+{"cond": "C3", "id": "s35", "tier": "hard", "label": false, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 193, "sec": 1.22}
+{"cond": "C3", "id": "s35", "tier": "hard", "label": false, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 140, "sec": 0.84}
+{"cond": "C3", "id": "s35", "tier": "hard", "label": false, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 130, "sec": 0.77}
+{"cond": "C3", "id": "s35", "tier": "hard", "label": false, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 145, "sec": 0.99}
+{"cond": "C3", "id": "s35", "tier": "hard", "label": false, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 164, "sec": 1.05}
+{"cond": "C1", "id": "s36", "tier": "hard", "label": true, "rep": 0, "answer": "TAK", "conf": 0.98, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.98", "finish": "stop", "completion_tokens": 223, "sec": 1.33}
+{"cond": "C1", "id": "s36", "tier": "hard", "label": true, "rep": 1, "answer": "TAK", "conf": 0.95, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.95", "finish": "stop", "completion_tokens": 218, "sec": 1.28}
+{"cond": "C1", "id": "s36", "tier": "hard", "label": true, "rep": 2, "answer": "TAK", "conf": 0.99, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.99", "finish": "stop", "completion_tokens": 349, "sec": 1.92}
+{"cond": "C2", "id": "s36", "tier": "hard", "label": true, "rep": 0, "answer": "TAK", "conf": 0.98, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.98", "finish": "stop", "completion_tokens": 346, "sec": 1.96}
+{"cond": "C2", "id": "s36", "tier": "hard", "label": true, "rep": 1, "answer": "TAK", "conf": 0.98, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.98", "finish": "stop", "completion_tokens": 222, "sec": 1.36}
+{"cond": "C2", "id": "s36", "tier": "hard", "label": true, "rep": 2, "answer": "TAK", "conf": 0.95, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.95", "finish": "stop", "completion_tokens": 295, "sec": 1.64}
+{"cond": "C3", "id": "s36", "tier": "hard", "label": true, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 169, "sec": 1.17}
+{"cond": "C3", "id": "s36", "tier": "hard", "label": true, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 192, "sec": 1.26}
+{"cond": "C3", "id": "s36", "tier": "hard", "label": true, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 149, "sec": 0.85}
+{"cond": "C3", "id": "s36", "tier": "hard", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 154, "sec": 0.93}
+{"cond": "C3", "id": "s36", "tier": "hard", "label": true, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 179, "sec": 1.15}
+{"cond": "C3", "id": "s36", "tier": "hard", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 229, "sec": 1.43}
+{"cond": "C3", "id": "s36", "tier": "hard", "label": true, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 131, "sec": 0.77}
+{"cond": "C3", "id": "s36", "tier": "hard", "label": true, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 158, "sec": 0.95}
+{"cond": "C3", "id": "s36", "tier": "hard", "label": true, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 216, "sec": 1.38}
+{"cond": "C3", "id": "s36", "tier": "hard", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 179, "sec": 1.11}
+{"cond": "C1", "id": "s37", "tier": "hard", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1", "finish": "stop", "completion_tokens": 148, "sec": 0.89}
+{"cond": "C1", "id": "s37", "tier": "hard", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 153, "sec": 0.95}
+{"cond": "C1", "id": "s37", "tier": "hard", "label": true, "rep": 2, "answer": "TAK", "conf": 0.99, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.99", "finish": "stop", "completion_tokens": 157, "sec": 0.91}
+{"cond": "C2", "id": "s37", "tier": "hard", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 186, "sec": 1.06}
+{"cond": "C2", "id": "s37", "tier": "hard", "label": true, "rep": 1, "answer": "TAK", "conf": 0.99, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.99", "finish": "stop", "completion_tokens": 173, "sec": 0.93}
+{"cond": "C2", "id": "s37", "tier": "hard", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 128, "sec": 0.74}
+{"cond": "C3", "id": "s37", "tier": "hard", "label": true, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 119, "sec": 0.75}
+{"cond": "C3", "id": "s37", "tier": "hard", "label": true, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 114, "sec": 0.7}
+{"cond": "C3", "id": "s37", "tier": "hard", "label": true, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 124, "sec": 0.68}
+{"cond": "C3", "id": "s37", "tier": "hard", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 111, "sec": 0.7}
+{"cond": "C3", "id": "s37", "tier": "hard", "label": true, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 102, "sec": 0.53}
+{"cond": "C3", "id": "s37", "tier": "hard", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 126, "sec": 0.71}
+{"cond": "C3", "id": "s37", "tier": "hard", "label": true, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 120, "sec": 0.71}
+{"cond": "C3", "id": "s37", "tier": "hard", "label": true, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 125, "sec": 0.71}
+{"cond": "C3", "id": "s37", "tier": "hard", "label": true, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 88, "sec": 0.5}
+{"cond": "C3", "id": "s37", "tier": "hard", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 104, "sec": 0.58}
+{"cond": "C1", "id": "s38", "tier": "hard", "label": false, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 133, "sec": 0.73}
+{"cond": "C1", "id": "s38", "tier": "hard", "label": false, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 168, "sec": 0.8}
+{"cond": "C1", "id": "s38", "tier": "hard", "label": false, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 137, "sec": 0.71}
+{"cond": "C2", "id": "s38", "tier": "hard", "label": false, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 204, "sec": 1.06}
+{"cond": "C2", "id": "s38", "tier": "hard", "label": false, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 128, "sec": 0.67}
+{"cond": "C2", "id": "s38", "tier": "hard", "label": false, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 166, "sec": 0.92}
+{"cond": "C3", "id": "s38", "tier": "hard", "label": false, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 76, "sec": 0.48}
+{"cond": "C3", "id": "s38", "tier": "hard", "label": false, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 66, "sec": 0.37}
+{"cond": "C3", "id": "s38", "tier": "hard", "label": false, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 82, "sec": 0.49}
+{"cond": "C3", "id": "s38", "tier": "hard", "label": false, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 79, "sec": 0.52}
+{"cond": "C3", "id": "s38", "tier": "hard", "label": false, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 80, "sec": 0.43}
+{"cond": "C3", "id": "s38", "tier": "hard", "label": false, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 81, "sec": 0.62}
+{"cond": "C3", "id": "s38", "tier": "hard", "label": false, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 76, "sec": 0.41}
+{"cond": "C3", "id": "s38", "tier": "hard", "label": false, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 84, "sec": 0.5}
+{"cond": "C3", "id": "s38", "tier": "hard", "label": false, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 79, "sec": 0.43}
+{"cond": "C3", "id": "s38", "tier": "hard", "label": false, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 77, "sec": 0.42}
+{"cond": "C1", "id": "s39", "tier": "hard", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 236, "sec": 1.57}
+{"cond": "C1", "id": "s39", "tier": "hard", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.0", "finish": "stop", "completion_tokens": 190, "sec": 1.1}
+{"cond": "C1", "id": "s39", "tier": "hard", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1", "finish": "stop", "completion_tokens": 138, "sec": 0.81}
+{"cond": "C2", "id": "s39", "tier": "hard", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 168, "sec": 1.05}
+{"cond": "C2", "id": "s39", "tier": "hard", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 122, "sec": 0.71}
+{"cond": "C2", "id": "s39", "tier": "hard", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.00", "finish": "stop", "completion_tokens": 171, "sec": 1.07}
+{"cond": "C3", "id": "s39", "tier": "hard", "label": true, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 110, "sec": 0.84}
+{"cond": "C3", "id": "s39", "tier": "hard", "label": true, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 99, "sec": 0.71}
+{"cond": "C3", "id": "s39", "tier": "hard", "label": true, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 81, "sec": 0.52}
+{"cond": "C3", "id": "s39", "tier": "hard", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 108, "sec": 0.7}
+{"cond": "C3", "id": "s39", "tier": "hard", "label": true, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 82, "sec": 0.54}
+{"cond": "C3", "id": "s39", "tier": "hard", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 86, "sec": 0.56}
+{"cond": "C3", "id": "s39", "tier": "hard", "label": true, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 120, "sec": 0.83}
+{"cond": "C3", "id": "s39", "tier": "hard", "label": true, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 81, "sec": 0.52}
+{"cond": "C3", "id": "s39", "tier": "hard", "label": true, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 101, "sec": 0.62}
+{"cond": "C3", "id": "s39", "tier": "hard", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "finish": "stop", "completion_tokens": 82, "sec": 0.56}
+{"cond": "C1", "id": "s40", "tier": "hard", "label": false, "rep": 0, "answer": "NIE", "conf": 0.98, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.98", "finish": "stop", "completion_tokens": 166, "sec": 1.09}
+{"cond": "C1", "id": "s40", "tier": "hard", "label": false, "rep": 1, "answer": "NIE", "conf": 0.98, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.98", "finish": "stop", "completion_tokens": 226, "sec": 1.26}
+{"cond": "C1", "id": "s40", "tier": "hard", "label": false, "rep": 2, "answer": "NIE", "conf": 0.9, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.9", "finish": "stop", "completion_tokens": 223, "sec": 1.36}
+{"cond": "C2", "id": "s40", "tier": "hard", "label": false, "rep": 0, "answer": "NIE", "conf": 0.95, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.95", "finish": "stop", "completion_tokens": 182, "sec": 1.08}
+{"cond": "C2", "id": "s40", "tier": "hard", "label": false, "rep": 1, "answer": "NIE", "conf": 0.95, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.95", "finish": "stop", "completion_tokens": 208, "sec": 1.19}
+{"cond": "C2", "id": "s40", "tier": "hard", "label": false, "rep": 2, "answer": "NIE", "conf": 0.95, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.95", "finish": "stop", "completion_tokens": 175, "sec": 1.05}
+{"cond": "C3", "id": "s40", "tier": "hard", "label": false, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 113, "sec": 0.71}
+{"cond": "C3", "id": "s40", "tier": "hard", "label": false, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 155, "sec": 1.05}
+{"cond": "C3", "id": "s40", "tier": "hard", "label": false, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 145, "sec": 0.86}
+{"cond": "C3", "id": "s40", "tier": "hard", "label": false, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 112, "sec": 0.72}
+{"cond": "C3", "id": "s40", "tier": "hard", "label": false, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 107, "sec": 0.68}
+{"cond": "C3", "id": "s40", "tier": "hard", "label": false, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 141, "sec": 0.9}
+{"cond": "C3", "id": "s40", "tier": "hard", "label": false, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 115, "sec": 0.71}
+{"cond": "C3", "id": "s40", "tier": "hard", "label": false, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 173, "sec": 1.08}
+{"cond": "C3", "id": "s40", "tier": "hard", "label": false, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 97, "sec": 0.64}
+{"cond": "C3", "id": "s40", "tier": "hard", "label": false, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "finish": "stop", "completion_tokens": 165, "sec": 1.06}
