@@ -1,0 +1,520 @@
+{"cond": "C1", "id": "t41", "label": true, "rep": 0, "answer": "NIE", "conf": 0.99, "raw": "NIE\nCONFIDENCE: 0.99", "sec": 0.68}
+{"cond": "C1", "id": "t41", "label": true, "rep": 1, "answer": "NIE", "conf": 0.95, "raw": "NIE\n0.95", "sec": 0.48}
+{"cond": "C1", "id": "t41", "label": true, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "sec": 0.65}
+{"cond": "C3", "id": "t41", "label": true, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.64}
+{"cond": "C3", "id": "t41", "label": true, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t41", "label": true, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t41", "label": true, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t41", "label": true, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.38}
+{"cond": "C3", "id": "t41", "label": true, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.38}
+{"cond": "C3", "id": "t41", "label": true, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t41", "label": true, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t41", "label": true, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t41", "label": true, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C1", "id": "t42", "label": false, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "NIE\nCONFIDENCE: 1.0", "sec": 0.55}
+{"cond": "C1", "id": "t42", "label": false, "rep": 1, "answer": "NIE", "conf": 0.95, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.95", "sec": 0.64}
+{"cond": "C1", "id": "t42", "label": false, "rep": 2, "answer": "NIE", "conf": 0.95, "raw": "NIE\nCONFIDENCE: 0.95", "sec": 0.57}
+{"cond": "C3", "id": "t42", "label": false, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.64}
+{"cond": "C3", "id": "t42", "label": false, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t42", "label": false, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t42", "label": false, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.38}
+{"cond": "C3", "id": "t42", "label": false, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t42", "label": false, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.38}
+{"cond": "C3", "id": "t42", "label": false, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t42", "label": false, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t42", "label": false, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.42}
+{"cond": "C3", "id": "t42", "label": false, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C1", "id": "t43", "label": true, "rep": 0, "answer": "TAK", "conf": 0.95, "raw": "ODPOWIEDŹ: TAK\nCONFIDENCE: 0.95", "sec": 1.06}
+{"cond": "C1", "id": "t43", "label": true, "rep": 1, "answer": "TAK", "conf": 0.99, "raw": "ODPOWIEDŹ: TAK\nCONFIDENCE: 0.99", "sec": 0.74}
+{"cond": "C1", "id": "t43", "label": true, "rep": 2, "answer": "TAK", "conf": 0.95, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.95", "sec": 0.65}
+{"cond": "C3", "id": "t43", "label": true, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.73}
+{"cond": "C3", "id": "t43", "label": true, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.37}
+{"cond": "C3", "id": "t43", "label": true, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.37}
+{"cond": "C3", "id": "t43", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.38}
+{"cond": "C3", "id": "t43", "label": true, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.37}
+{"cond": "C3", "id": "t43", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.36}
+{"cond": "C3", "id": "t43", "label": true, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.36}
+{"cond": "C3", "id": "t43", "label": true, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.37}
+{"cond": "C3", "id": "t43", "label": true, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.36}
+{"cond": "C3", "id": "t43", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.37}
+{"cond": "C1", "id": "t44", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDŹ: TAK\nCONFIDENCE: 1.0", "sec": 1.04}
+{"cond": "C1", "id": "t44", "label": true, "rep": 1, "answer": "TAK", "conf": 0.95, "raw": "ODPOWIEDŹ: TAK\nCONFIDENCE: 0.95", "sec": 0.73}
+{"cond": "C1", "id": "t44", "label": true, "rep": 2, "answer": "TAK", "conf": 0.95, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.95", "sec": 0.68}
+{"cond": "C3", "id": "t44", "label": true, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.69}
+{"cond": "C3", "id": "t44", "label": true, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.37}
+{"cond": "C3", "id": "t44", "label": true, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.37}
+{"cond": "C3", "id": "t44", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.37}
+{"cond": "C3", "id": "t44", "label": true, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.37}
+{"cond": "C3", "id": "t44", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.38}
+{"cond": "C3", "id": "t44", "label": true, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.38}
+{"cond": "C3", "id": "t44", "label": true, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.37}
+{"cond": "C3", "id": "t44", "label": true, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.38}
+{"cond": "C3", "id": "t44", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.37}
+{"cond": "C1", "id": "t45", "label": true, "rep": 0, "answer": "TAK", "conf": 0.95, "raw": "ODPOWIEDź: TAK\nCONFIDENCE: 0.95", "sec": 1.08}
+{"cond": "C1", "id": "t45", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDź: TAK\nCONFIDENCE: 1.0", "sec": 0.65}
+{"cond": "C1", "id": "t45", "label": true, "rep": 2, "answer": "TAK", "conf": 0.99, "raw": "ODPOWIEDŹ: TAK\nCONFIDENCE: 0.99", "sec": 0.69}
+{"cond": "C3", "id": "t45", "label": true, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.74}
+{"cond": "C3", "id": "t45", "label": true, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.39}
+{"cond": "C3", "id": "t45", "label": true, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.37}
+{"cond": "C3", "id": "t45", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.36}
+{"cond": "C3", "id": "t45", "label": true, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.37}
+{"cond": "C3", "id": "t45", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.37}
+{"cond": "C3", "id": "t45", "label": true, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.37}
+{"cond": "C3", "id": "t45", "label": true, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.37}
+{"cond": "C3", "id": "t45", "label": true, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.37}
+{"cond": "C3", "id": "t45", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.37}
+{"cond": "C1", "id": "t46", "label": true, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "sec": 0.97}
+{"cond": "C1", "id": "t46", "label": true, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "sec": 0.64}
+{"cond": "C1", "id": "t46", "label": true, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDź: NIE\nCONFIDENCE: 1.0", "sec": 0.69}
+{"cond": "C3", "id": "t46", "label": true, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.65}
+{"cond": "C3", "id": "t46", "label": true, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t46", "label": true, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.38}
+{"cond": "C3", "id": "t46", "label": true, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t46", "label": true, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.37}
+{"cond": "C3", "id": "t46", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t46", "label": true, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.36}
+{"cond": "C3", "id": "t46", "label": true, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t46", "label": true, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t46", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.36}
+{"cond": "C1", "id": "t47", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "TAK\nCONFIDENCE: 1.0", "sec": 0.92}
+{"cond": "C1", "id": "t47", "label": true, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "NIE\nCONFIDENCE: 1.0", "sec": 0.52}
+{"cond": "C1", "id": "t47", "label": true, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "NIE\nCONFIDENCE: 1.0", "sec": 0.52}
+{"cond": "C3", "id": "t47", "label": true, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.73}
+{"cond": "C3", "id": "t47", "label": true, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.39}
+{"cond": "C3", "id": "t47", "label": true, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.38}
+{"cond": "C3", "id": "t47", "label": true, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.41}
+{"cond": "C3", "id": "t47", "label": true, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.38}
+{"cond": "C3", "id": "t47", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.38}
+{"cond": "C3", "id": "t47", "label": true, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t47", "label": true, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.37}
+{"cond": "C3", "id": "t47", "label": true, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.37}
+{"cond": "C3", "id": "t47", "label": true, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.38}
+{"cond": "C1", "id": "t48", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.0", "sec": 1.01}
+{"cond": "C1", "id": "t48", "label": true, "rep": 1, "answer": "TAK", "conf": 0.95, "raw": "ODPOWIEDŹ: TAK\nCONFIDENCE: 0.95", "sec": 0.68}
+{"cond": "C1", "id": "t48", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.0", "sec": 0.63}
+{"cond": "C3", "id": "t48", "label": true, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.68}
+{"cond": "C3", "id": "t48", "label": true, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.36}
+{"cond": "C3", "id": "t48", "label": true, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.37}
+{"cond": "C3", "id": "t48", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.38}
+{"cond": "C3", "id": "t48", "label": true, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.38}
+{"cond": "C3", "id": "t48", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.37}
+{"cond": "C3", "id": "t48", "label": true, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.37}
+{"cond": "C3", "id": "t48", "label": true, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.37}
+{"cond": "C3", "id": "t48", "label": true, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.38}
+{"cond": "C3", "id": "t48", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.37}
+{"cond": "C1", "id": "t49", "label": true, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDź: NIE\nCONFIDENCE: 1.0", "sec": 1.02}
+{"cond": "C1", "id": "t49", "label": true, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDŹ: NIE\nCONFIDENCE: 1.0", "sec": 0.7}
+{"cond": "C1", "id": "t49", "label": true, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDŹ: NIE\nCONFIDENCE: 1.0", "sec": 0.68}
+{"cond": "C3", "id": "t49", "label": true, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.66}
+{"cond": "C3", "id": "t49", "label": true, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t49", "label": true, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t49", "label": true, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t49", "label": true, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t49", "label": true, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t49", "label": true, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t49", "label": true, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t49", "label": true, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t49", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.38}
+{"cond": "C1", "id": "t50", "label": false, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDź: NIE\nCONFIDENCE: 1.0", "sec": 1.03}
+{"cond": "C1", "id": "t50", "label": false, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDź: NIE\nCONFIDENCE: 1.0", "sec": 0.69}
+{"cond": "C1", "id": "t50", "label": false, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDź: NIE\nCONFIDENCE: 1.0", "sec": 0.7}
+{"cond": "C3", "id": "t50", "label": false, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.64}
+{"cond": "C3", "id": "t50", "label": false, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t50", "label": false, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t50", "label": false, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t50", "label": false, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.38}
+{"cond": "C3", "id": "t50", "label": false, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t50", "label": false, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.39}
+{"cond": "C3", "id": "t50", "label": false, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.38}
+{"cond": "C3", "id": "t50", "label": false, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.38}
+{"cond": "C3", "id": "t50", "label": false, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C1", "id": "t51", "label": false, "rep": 0, "answer": "NIE", "conf": 0.99, "raw": "ODPOWIEDź: NIE\nCONFIDENCE: 0.99", "sec": 1.07}
+{"cond": "C1", "id": "t51", "label": false, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDź: NIE\nCONFIDENCE: 1.0", "sec": 0.71}
+{"cond": "C1", "id": "t51", "label": false, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDź: NIE\nCONFIDENCE: 1.0", "sec": 0.71}
+{"cond": "C3", "id": "t51", "label": false, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.73}
+{"cond": "C3", "id": "t51", "label": false, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.38}
+{"cond": "C3", "id": "t51", "label": false, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t51", "label": false, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t51", "label": false, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t51", "label": false, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t51", "label": false, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.38}
+{"cond": "C3", "id": "t51", "label": false, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.39}
+{"cond": "C3", "id": "t51", "label": false, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.38}
+{"cond": "C3", "id": "t51", "label": false, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.38}
+{"cond": "C1", "id": "t52", "label": false, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDź: NIE\nCONFIDENCE: 1.0", "sec": 1.05}
+{"cond": "C1", "id": "t52", "label": false, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDź: NIE\nCONFIDENCE: 1.0", "sec": 0.69}
+{"cond": "C1", "id": "t52", "label": false, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "TAK\nCONFIDENCE: 1.0", "sec": 0.58}
+{"cond": "C3", "id": "t52", "label": false, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.69}
+{"cond": "C3", "id": "t52", "label": false, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t52", "label": false, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t52", "label": false, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t52", "label": false, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t52", "label": false, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t52", "label": false, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t52", "label": false, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t52", "label": false, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t52", "label": false, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.38}
+{"cond": "C1", "id": "t53", "label": false, "rep": 0, "answer": "NIE", "conf": 0.95, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.95", "sec": 0.97}
+{"cond": "C1", "id": "t53", "label": false, "rep": 1, "answer": "NIE", "conf": 0.95, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.95", "sec": 0.6}
+{"cond": "C1", "id": "t53", "label": false, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDź: NIE\nCONFIDENCE: 1.0", "sec": 0.65}
+{"cond": "C3", "id": "t53", "label": false, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.66}
+{"cond": "C3", "id": "t53", "label": false, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t53", "label": false, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.34}
+{"cond": "C3", "id": "t53", "label": false, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t53", "label": false, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.34}
+{"cond": "C3", "id": "t53", "label": false, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t53", "label": false, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t53", "label": false, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t53", "label": false, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.38}
+{"cond": "C3", "id": "t53", "label": false, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C1", "id": "t54", "label": false, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDŹ: NIE\nCONFIDENCE: 1.0", "sec": 1.0}
+{"cond": "C1", "id": "t54", "label": false, "rep": 1, "answer": "NIE", "conf": 0.95, "raw": "NIE\n0.95", "sec": 0.48}
+{"cond": "C1", "id": "t54", "label": false, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDź: NIE\nCONFIDENCE: 1.0", "sec": 0.67}
+{"cond": "C3", "id": "t54", "label": false, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.63}
+{"cond": "C3", "id": "t54", "label": false, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.34}
+{"cond": "C3", "id": "t54", "label": false, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.34}
+{"cond": "C3", "id": "t54", "label": false, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.34}
+{"cond": "C3", "id": "t54", "label": false, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t54", "label": false, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t54", "label": false, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.34}
+{"cond": "C3", "id": "t54", "label": false, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.34}
+{"cond": "C3", "id": "t54", "label": false, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t54", "label": false, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C1", "id": "t55", "label": false, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDź: NIE\nCONFIDENCE: 1.0", "sec": 0.99}
+{"cond": "C1", "id": "t55", "label": false, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "sec": 0.6}
+{"cond": "C1", "id": "t55", "label": false, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDź: NIE\nCONFIDENCE: 1.0", "sec": 0.66}
+{"cond": "C3", "id": "t55", "label": false, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.74}
+{"cond": "C3", "id": "t55", "label": false, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t55", "label": false, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.38}
+{"cond": "C3", "id": "t55", "label": false, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.38}
+{"cond": "C3", "id": "t55", "label": false, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.38}
+{"cond": "C3", "id": "t55", "label": false, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t55", "label": false, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t55", "label": false, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.38}
+{"cond": "C3", "id": "t55", "label": false, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t55", "label": false, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C1", "id": "t56", "label": false, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "NIE\nCONFIDENCE: 1.0", "sec": 0.87}
+{"cond": "C1", "id": "t56", "label": false, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "sec": 0.63}
+{"cond": "C1", "id": "t56", "label": false, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDź: NIE\nCONFIDENCE: 1.0", "sec": 0.69}
+{"cond": "C3", "id": "t56", "label": false, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.69}
+{"cond": "C3", "id": "t56", "label": false, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t56", "label": false, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.38}
+{"cond": "C3", "id": "t56", "label": false, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t56", "label": false, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.38}
+{"cond": "C3", "id": "t56", "label": false, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t56", "label": false, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t56", "label": false, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t56", "label": false, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t56", "label": false, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.71}
+{"cond": "C1", "id": "t57", "label": false, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDź: NIE\nCONFIDENCE: 1.0", "sec": 1.06}
+{"cond": "C1", "id": "t57", "label": false, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDź: NIE\nCONFIDENCE: 1.0", "sec": 0.65}
+{"cond": "C1", "id": "t57", "label": false, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDź: NIE\nCONFIDENCE: 1.0", "sec": 0.65}
+{"cond": "C3", "id": "t57", "label": false, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.64}
+{"cond": "C3", "id": "t57", "label": false, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.42}
+{"cond": "C3", "id": "t57", "label": false, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t57", "label": false, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t57", "label": false, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t57", "label": false, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t57", "label": false, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t57", "label": false, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t57", "label": false, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t57", "label": false, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.4}
+{"cond": "C1", "id": "t58", "label": false, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDŹ: NIE\nCONFIDENCE: 1.0", "sec": 1.01}
+{"cond": "C1", "id": "t58", "label": false, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "sec": 0.66}
+{"cond": "C1", "id": "t58", "label": false, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDź: NIE\nCONFIDENCE: 1.0", "sec": 0.65}
+{"cond": "C3", "id": "t58", "label": false, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.66}
+{"cond": "C3", "id": "t58", "label": false, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.38}
+{"cond": "C3", "id": "t58", "label": false, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t58", "label": false, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t58", "label": false, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t58", "label": false, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t58", "label": false, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t58", "label": false, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t58", "label": false, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.34}
+{"cond": "C3", "id": "t58", "label": false, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C1", "id": "t59", "label": true, "rep": 0, "answer": "TAK", "conf": 0.95, "raw": "TAK\nCONFIDENCE: 0.95", "sec": 0.98}
+{"cond": "C1", "id": "t59", "label": true, "rep": 1, "answer": "TAK", "conf": 0.95, "raw": "TAK\n0.95", "sec": 0.52}
+{"cond": "C1", "id": "t59", "label": true, "rep": 2, "answer": "TAK", "conf": 0.95, "raw": "TAK\n0.95", "sec": 0.51}
+{"cond": "C3", "id": "t59", "label": true, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.66}
+{"cond": "C3", "id": "t59", "label": true, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.39}
+{"cond": "C3", "id": "t59", "label": true, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t59", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.34}
+{"cond": "C3", "id": "t59", "label": true, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t59", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t59", "label": true, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.34}
+{"cond": "C3", "id": "t59", "label": true, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t59", "label": true, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t59", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.34}
+{"cond": "C1", "id": "t60", "label": true, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDŹ: NIE\nCONFIDENCE: 1.0", "sec": 1.0}
+{"cond": "C1", "id": "t60", "label": true, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDŹ: NIE\nCONFIDENCE: 1.0", "sec": 0.65}
+{"cond": "C1", "id": "t60", "label": true, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "sec": 0.6}
+{"cond": "C3", "id": "t60", "label": true, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.65}
+{"cond": "C3", "id": "t60", "label": true, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t60", "label": true, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.34}
+{"cond": "C3", "id": "t60", "label": true, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.34}
+{"cond": "C3", "id": "t60", "label": true, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.34}
+{"cond": "C3", "id": "t60", "label": true, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.34}
+{"cond": "C3", "id": "t60", "label": true, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t60", "label": true, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t60", "label": true, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.34}
+{"cond": "C3", "id": "t60", "label": true, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.34}
+{"cond": "C1", "id": "t61", "label": true, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDź: NIE\nCONFIDENCE: 1.0", "sec": 0.97}
+{"cond": "C1", "id": "t61", "label": true, "rep": 1, "answer": "NIE", "conf": 0.95, "raw": "NIE\nCONFIDENCE: 0.95", "sec": 0.5}
+{"cond": "C1", "id": "t61", "label": true, "rep": 2, "answer": "NIE", "conf": 0.95, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.95", "sec": 0.6}
+{"cond": "C3", "id": "t61", "label": true, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.63}
+{"cond": "C3", "id": "t61", "label": true, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t61", "label": true, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t61", "label": true, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t61", "label": true, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.34}
+{"cond": "C3", "id": "t61", "label": true, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.34}
+{"cond": "C3", "id": "t61", "label": true, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t61", "label": true, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.34}
+{"cond": "C3", "id": "t61", "label": true, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t61", "label": true, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C1", "id": "t62", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDŹ: TAK\nCONFIDENCE: 1.0", "sec": 0.99}
+{"cond": "C1", "id": "t62", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDŹ: TAK\nCONFIDENCE: 1.0", "sec": 0.65}
+{"cond": "C1", "id": "t62", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.0", "sec": 0.61}
+{"cond": "C3", "id": "t62", "label": true, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.65}
+{"cond": "C3", "id": "t62", "label": true, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.37}
+{"cond": "C3", "id": "t62", "label": true, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.37}
+{"cond": "C3", "id": "t62", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t62", "label": true, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t62", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t62", "label": true, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.36}
+{"cond": "C3", "id": "t62", "label": true, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t62", "label": true, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t62", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.34}
+{"cond": "C1", "id": "t63", "label": true, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "sec": 0.93}
+{"cond": "C1", "id": "t63", "label": true, "rep": 1, "answer": "NIE", "conf": 0.95, "raw": "ODPOWIEDź: NIE\nCONFIDENCE: 0.95", "sec": 0.7}
+{"cond": "C1", "id": "t63", "label": true, "rep": 2, "answer": "NIE", "conf": 0.95, "raw": "ODPOWIEDź: NIE\nCONFIDENCE: 0.95", "sec": 0.7}
+{"cond": "C3", "id": "t63", "label": true, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.68}
+{"cond": "C3", "id": "t63", "label": true, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t63", "label": true, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t63", "label": true, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t63", "label": true, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t63", "label": true, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t63", "label": true, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t63", "label": true, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t63", "label": true, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.34}
+{"cond": "C3", "id": "t63", "label": true, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C1", "id": "t64", "label": true, "rep": 0, "answer": "NIE", "conf": 0.95, "raw": "ODPOWIEDŹ: NIE\nCONFIDENCE: 0.95", "sec": 0.98}
+{"cond": "C1", "id": "t64", "label": true, "rep": 1, "answer": "NIE", "conf": 0.99, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.99", "sec": 0.65}
+{"cond": "C1", "id": "t64", "label": true, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDŹ: NIE\nCONFIDENCE: 1.0", "sec": 0.64}
+{"cond": "C3", "id": "t64", "label": true, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.64}
+{"cond": "C3", "id": "t64", "label": true, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t64", "label": true, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t64", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.34}
+{"cond": "C3", "id": "t64", "label": true, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t64", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.36}
+{"cond": "C3", "id": "t64", "label": true, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.34}
+{"cond": "C3", "id": "t64", "label": true, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t64", "label": true, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.34}
+{"cond": "C3", "id": "t64", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.34}
+{"cond": "C1", "id": "t65", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.0", "sec": 0.92}
+{"cond": "C1", "id": "t65", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.0", "sec": 0.62}
+{"cond": "C1", "id": "t65", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDŹ: TAK\nCONFIDENCE: 1.0", "sec": 0.66}
+{"cond": "C3", "id": "t65", "label": true, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.63}
+{"cond": "C3", "id": "t65", "label": true, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t65", "label": true, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.34}
+{"cond": "C3", "id": "t65", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.34}
+{"cond": "C3", "id": "t65", "label": true, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.34}
+{"cond": "C3", "id": "t65", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.34}
+{"cond": "C3", "id": "t65", "label": true, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.36}
+{"cond": "C3", "id": "t65", "label": true, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t65", "label": true, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.4}
+{"cond": "C3", "id": "t65", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.34}
+{"cond": "C1", "id": "t66", "label": true, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDź: NIE\nCONFIDENCE: 1.0", "sec": 0.97}
+{"cond": "C1", "id": "t66", "label": true, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "sec": 0.71}
+{"cond": "C1", "id": "t66", "label": true, "rep": 2, "answer": "TAK", "conf": 0.95, "raw": "ODPOWIEDŹ: TAK\nCONFIDENCE: 0.95", "sec": 0.73}
+{"cond": "C3", "id": "t66", "label": true, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.67}
+{"cond": "C3", "id": "t66", "label": true, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t66", "label": true, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t66", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.5}
+{"cond": "C3", "id": "t66", "label": true, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t66", "label": true, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t66", "label": true, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t66", "label": true, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t66", "label": true, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t66", "label": true, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C1", "id": "t67", "label": true, "rep": 0, "answer": "TAK", "conf": 0.99, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.99", "sec": 1.06}
+{"cond": "C1", "id": "t67", "label": true, "rep": 1, "answer": "TAK", "conf": 0.95, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 0.95", "sec": 0.61}
+{"cond": "C1", "id": "t67", "label": true, "rep": 2, "answer": "TAK", "conf": 0.95, "raw": "ODPOWIEDŹ: TAK\nCONFIDENCE: 0.95", "sec": 0.65}
+{"cond": "C3", "id": "t67", "label": true, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.66}
+{"cond": "C3", "id": "t67", "label": true, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t67", "label": true, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.34}
+{"cond": "C3", "id": "t67", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.34}
+{"cond": "C3", "id": "t67", "label": true, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t67", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.38}
+{"cond": "C3", "id": "t67", "label": true, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t67", "label": true, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.34}
+{"cond": "C3", "id": "t67", "label": true, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t67", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C1", "id": "t68", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.0", "sec": 0.94}
+{"cond": "C1", "id": "t68", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.0", "sec": 0.61}
+{"cond": "C1", "id": "t68", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.0", "sec": 0.6}
+{"cond": "C3", "id": "t68", "label": true, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.68}
+{"cond": "C3", "id": "t68", "label": true, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.36}
+{"cond": "C3", "id": "t68", "label": true, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t68", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.36}
+{"cond": "C3", "id": "t68", "label": true, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.37}
+{"cond": "C3", "id": "t68", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t68", "label": true, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t68", "label": true, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.36}
+{"cond": "C3", "id": "t68", "label": true, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t68", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.34}
+{"cond": "C1", "id": "t69", "label": false, "rep": 0, "answer": "NIE", "conf": 0.98, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.98", "sec": 0.99}
+{"cond": "C1", "id": "t69", "label": false, "rep": 1, "answer": "NIE", "conf": 0.95, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.95", "sec": 0.6}
+{"cond": "C1", "id": "t69", "label": false, "rep": 2, "answer": "NIE", "conf": 0.95, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.95", "sec": 0.6}
+{"cond": "C3", "id": "t69", "label": false, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.65}
+{"cond": "C3", "id": "t69", "label": false, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t69", "label": false, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.34}
+{"cond": "C3", "id": "t69", "label": false, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t69", "label": false, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.47}
+{"cond": "C3", "id": "t69", "label": false, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t69", "label": false, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t69", "label": false, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t69", "label": false, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.36}
+{"cond": "C3", "id": "t69", "label": false, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C1", "id": "t70", "label": false, "rep": 0, "answer": "TAK", "conf": 0.95, "raw": "ODPOWIEDŹ: TAK\nCONFIDENCE: 0.95", "sec": 1.02}
+{"cond": "C1", "id": "t70", "label": false, "rep": 1, "answer": "TAK", "conf": 0.95, "raw": "ODPOWIEDŹ: TAK\nCONFIDENCE: 0.95", "sec": 0.66}
+{"cond": "C1", "id": "t70", "label": false, "rep": 2, "answer": "TAK", "conf": 0.98, "raw": "ODPOWIEDŹ: TAK\nCONFIDENCE: 0.98", "sec": 0.71}
+{"cond": "C3", "id": "t70", "label": false, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.68}
+{"cond": "C3", "id": "t70", "label": false, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.37}
+{"cond": "C3", "id": "t70", "label": false, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.45}
+{"cond": "C3", "id": "t70", "label": false, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t70", "label": false, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t70", "label": false, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t70", "label": false, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.34}
+{"cond": "C3", "id": "t70", "label": false, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t70", "label": false, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t70", "label": false, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C1", "id": "t71", "label": false, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.0", "sec": 0.93}
+{"cond": "C1", "id": "t71", "label": false, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDŹ: TAK\nCONFIDENCE: 1.0", "sec": 0.66}
+{"cond": "C1", "id": "t71", "label": false, "rep": 2, "answer": "TAK", "conf": 0.95, "raw": "TAK\n0.95", "sec": 0.49}
+{"cond": "C3", "id": "t71", "label": false, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.72}
+{"cond": "C3", "id": "t71", "label": false, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.34}
+{"cond": "C3", "id": "t71", "label": false, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t71", "label": false, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t71", "label": false, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.36}
+{"cond": "C3", "id": "t71", "label": false, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t71", "label": false, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t71", "label": false, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t71", "label": false, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t71", "label": false, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C1", "id": "t72", "label": false, "rep": 0, "answer": "NIE", "conf": 0.95, "raw": "ODPOWIEDź: NIE\nCONFIDENCE: 0.95", "sec": 1.09}
+{"cond": "C1", "id": "t72", "label": false, "rep": 1, "answer": "NIE", "conf": 0.95, "raw": "ODPOWIEDź: NIE\nCONFIDENCE: 0.95", "sec": 0.72}
+{"cond": "C1", "id": "t72", "label": false, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDź: NIE\nCONFIDENCE: 1.0", "sec": 0.65}
+{"cond": "C3", "id": "t72", "label": false, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.66}
+{"cond": "C3", "id": "t72", "label": false, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t72", "label": false, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t72", "label": false, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.34}
+{"cond": "C3", "id": "t72", "label": false, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.34}
+{"cond": "C3", "id": "t72", "label": false, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t72", "label": false, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.34}
+{"cond": "C3", "id": "t72", "label": false, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t72", "label": false, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t72", "label": false, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.4}
+{"cond": "C1", "id": "t73", "label": false, "rep": 0, "answer": "NIE", "conf": 0.99, "raw": "ODPOWIEDź: NIE\nCONFIDENCE: 0.99", "sec": 1.04}
+{"cond": "C1", "id": "t73", "label": false, "rep": 1, "answer": "NIE", "conf": 0.99, "raw": "ODPOWIEDź: NIE\nCONFIDENCE: 0.99", "sec": 0.72}
+{"cond": "C1", "id": "t73", "label": false, "rep": 2, "answer": "NIE", "conf": 0.99, "raw": "ODPOWIEDź: NIE\nCONFIDENCE: 0.99", "sec": 0.71}
+{"cond": "C3", "id": "t73", "label": false, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.68}
+{"cond": "C3", "id": "t73", "label": false, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t73", "label": false, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t73", "label": false, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t73", "label": false, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t73", "label": false, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t73", "label": false, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t73", "label": false, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.47}
+{"cond": "C3", "id": "t73", "label": false, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.52}
+{"cond": "C3", "id": "t73", "label": false, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C1", "id": "t74", "label": false, "rep": 0, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "sec": 0.95}
+{"cond": "C1", "id": "t74", "label": false, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "sec": 0.63}
+{"cond": "C1", "id": "t74", "label": false, "rep": 2, "answer": "NIE", "conf": 1.0, "raw": "NIE\nCONFIDENCE: 1.0", "sec": 0.54}
+{"cond": "C3", "id": "t74", "label": false, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.72}
+{"cond": "C3", "id": "t74", "label": false, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.39}
+{"cond": "C3", "id": "t74", "label": false, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t74", "label": false, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t74", "label": false, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t74", "label": false, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t74", "label": false, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t74", "label": false, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t74", "label": false, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t74", "label": false, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.34}
+{"cond": "C1", "id": "t75", "label": false, "rep": 0, "answer": "NIE", "conf": 0.95, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.95", "sec": 0.94}
+{"cond": "C1", "id": "t75", "label": false, "rep": 1, "answer": "NIE", "conf": 1.0, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 1.0", "sec": 0.62}
+{"cond": "C1", "id": "t75", "label": false, "rep": 2, "answer": "NIE", "conf": 0.99, "raw": "ODPOWIEDZ: NIE\nCONFIDENCE: 0.99", "sec": 0.69}
+{"cond": "C3", "id": "t75", "label": false, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.66}
+{"cond": "C3", "id": "t75", "label": false, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t75", "label": false, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t75", "label": false, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t75", "label": false, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t75", "label": false, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t75", "label": false, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t75", "label": false, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t75", "label": false, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.38}
+{"cond": "C3", "id": "t75", "label": false, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C1", "id": "t76", "label": false, "rep": 0, "answer": "TAK", "conf": 0.95, "raw": "ODPOWIEDŹ: TAK\nCONFIDENCE: 0.95", "sec": 0.99}
+{"cond": "C1", "id": "t76", "label": false, "rep": 1, "answer": "TAK", "conf": 0.95, "raw": "ODPOWIEDź: TAK\nCONFIDENCE: 0.95", "sec": 0.7}
+{"cond": "C1", "id": "t76", "label": false, "rep": 2, "answer": "TAK", "conf": 0.95, "raw": "ODPOWIEDź: TAK\nCONFIDENCE: 0.95", "sec": 0.67}
+{"cond": "C3", "id": "t76", "label": false, "rep": 0, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.67}
+{"cond": "C3", "id": "t76", "label": false, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t76", "label": false, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.37}
+{"cond": "C3", "id": "t76", "label": false, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t76", "label": false, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.48}
+{"cond": "C3", "id": "t76", "label": false, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t76", "label": false, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.36}
+{"cond": "C3", "id": "t76", "label": false, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t76", "label": false, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t76", "label": false, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C1", "id": "t77", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDź: TAK\nCONFIDENCE: 1.0", "sec": 0.92}
+{"cond": "C1", "id": "t77", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDź: TAK\nCONFIDENCE: 1.0", "sec": 0.61}
+{"cond": "C1", "id": "t77", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDź: TAK\nCONFIDENCE: 1.0", "sec": 0.72}
+{"cond": "C3", "id": "t77", "label": true, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.7}
+{"cond": "C3", "id": "t77", "label": true, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t77", "label": true, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t77", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t77", "label": true, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t77", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t77", "label": true, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t77", "label": true, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.34}
+{"cond": "C3", "id": "t77", "label": true, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t77", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C1", "id": "t78", "label": true, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDŹ: TAK\nCONFIDENCE: 1.0", "sec": 0.98}
+{"cond": "C1", "id": "t78", "label": true, "rep": 1, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDZ: TAK\nCONFIDENCE: 1.0", "sec": 0.6}
+{"cond": "C1", "id": "t78", "label": true, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDź: TAK\nCONFIDENCE: 1.0", "sec": 0.63}
+{"cond": "C3", "id": "t78", "label": true, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.71}
+{"cond": "C3", "id": "t78", "label": true, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.36}
+{"cond": "C3", "id": "t78", "label": true, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.38}
+{"cond": "C3", "id": "t78", "label": true, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.36}
+{"cond": "C3", "id": "t78", "label": true, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.37}
+{"cond": "C3", "id": "t78", "label": true, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.38}
+{"cond": "C3", "id": "t78", "label": true, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t78", "label": true, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.36}
+{"cond": "C3", "id": "t78", "label": true, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.36}
+{"cond": "C3", "id": "t78", "label": true, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.36}
+{"cond": "C1", "id": "t79", "label": false, "rep": 0, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDŹ: TAK\nCONFIDENCE: 1.0", "sec": 1.11}
+{"cond": "C1", "id": "t79", "label": false, "rep": 1, "answer": "TAK", "conf": 0.95, "raw": "TAK\n0.95", "sec": 0.52}
+{"cond": "C1", "id": "t79", "label": false, "rep": 2, "answer": "TAK", "conf": 1.0, "raw": "ODPOWIEDŹ: TAK\nCONFIDENCE: 1.0", "sec": 0.67}
+{"cond": "C3", "id": "t79", "label": false, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.7}
+{"cond": "C3", "id": "t79", "label": false, "rep": 1, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t79", "label": false, "rep": 2, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t79", "label": false, "rep": 3, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t79", "label": false, "rep": 4, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t79", "label": false, "rep": 5, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t79", "label": false, "rep": 6, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C3", "id": "t79", "label": false, "rep": 7, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.35}
+{"cond": "C3", "id": "t79", "label": false, "rep": 8, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.37}
+{"cond": "C3", "id": "t79", "label": false, "rep": 9, "answer": "NIE", "conf": null, "raw": "NIE", "sec": 0.36}
+{"cond": "C1", "id": "t80", "label": false, "rep": 0, "answer": "NIE", "conf": 0.95, "raw": "ODPOWIEDŹ: NIE\nCONFIDENCE: 0.95", "sec": 1.04}
+{"cond": "C1", "id": "t80", "label": false, "rep": 1, "answer": "TAK", "conf": 0.95, "raw": "TAK\n0.95", "sec": 0.52}
+{"cond": "C1", "id": "t80", "label": false, "rep": 2, "answer": "TAK", "conf": 0.95, "raw": "ODPOWIEDŹ: TAK\nCONFIDENCE: 0.95", "sec": 0.72}
+{"cond": "C3", "id": "t80", "label": false, "rep": 0, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.64}
+{"cond": "C3", "id": "t80", "label": false, "rep": 1, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.37}
+{"cond": "C3", "id": "t80", "label": false, "rep": 2, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.38}
+{"cond": "C3", "id": "t80", "label": false, "rep": 3, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t80", "label": false, "rep": 4, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.36}
+{"cond": "C3", "id": "t80", "label": false, "rep": 5, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t80", "label": false, "rep": 6, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.36}
+{"cond": "C3", "id": "t80", "label": false, "rep": 7, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.36}
+{"cond": "C3", "id": "t80", "label": false, "rep": 8, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.35}
+{"cond": "C3", "id": "t80", "label": false, "rep": 9, "answer": "TAK", "conf": null, "raw": "TAK", "sec": 0.36}

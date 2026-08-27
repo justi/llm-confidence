@@ -287,6 +287,31 @@ mediany 1.11 s (C1) / 0.80 s (C3). Model: ten sam qwen3.8-27b z myśleniem włą
    [ollama-agentic-loop](https://github.com/justi/ollama-agentic-loop) (drabinka zadań
    d1-d9, tam gdzie ten sam qwen3.8 realnie przegrywa z najtrudniejszymi zadaniami).
 
+**Kontrola różnicująca (ten sam zamrożony zestaw, model bez myślenia):** qwen3.6:35b-a3b
+(MoE 35.5B total / ~3 mld parametrów aktywnych, Q4_K_M, think OFF, temp 0.7 / top_p 0.8 /
+top_k 20), lokalnie na M1; 520 wywołań, 0 błędów sieci, mediany 0.69 s (C1) / 0.36 s (C3);
+wyniki: `results_tier4_ollama.jsonl`.
+
+- **Zestaw różnicuje**: trafność C1 spada z 119/120 (qwen3.8, myślenie ON) do **80/120**;
+  per głos C3: 290/400. Trudność tier-4 jest więc realna - tylko nie dla reasonera.
+  Pułapki działają zgodnie z projektem: near-missy progowe łamią model JEDNOGŁOŚNIE
+  (t70 "Challenger ponad 11000 m" i t71 "Everest ponad 9000 m": po 10/10 głosów TAK,
+  oba FAŁSZ), obok 9 zdań realnie niejednogłosnych (t46 Rysy 7/10, t47 chromosomy 4/10,
+  t64 azot/tlen 7/10).
+- **Nieciągłość trzyma także tutaj**: histogram deklaracji to znowu 4 wartości w paśmie
+  0.95-1.0 (1.0 x70, 0.99 x10, 0.98 x2, 0.95 x38) - mimo że co trzecia odpowiedź jest
+  błędna, dolne 95% skali pozostaje puste.
+- **Deklaracja nie rozdziela trafnych od błędnych**: trafność przy deklaracji 0.95 to
+  23/38 (61%), przy 1.0 - 48/70 (69%). Różnica w granicach szumu; bramkowanie takim
+  confidence (np. "ufaj, gdy >= 0.99") nie oddziela dobrego od złego.
+- **Granica metody głosowania, wprost w danych**: frakcja C3 widzi niepewność
+  PRÓBKOWANIA (zdania niejednogłosne), ale nie widzi błędu SYSTEMATYCZNEGO - trzy
+  zdania są jednogłośnie błędne (t70, t71 oraz kanarek t80 "Monako najmniejsze":
+  10/10 TAK). Zgodność to nie trafność - ten sam wniosek co s13/s15 w pomiarze bazowym.
+- **"Łatwe" jest względne wobec klasy modelu**: kanarki nasycenia przechodzą u qwen3.8
+  w komplecie (52/52), a u qwen3.6 padają dwa fałszywe (t80 jednogłośnie, t79 Merkury
+  3x w C1) - łącznie 36/52. Kanarek kalibruje się do modelu, nie "obiektywnie".
+
 ## Wnioski praktyczne (implikacje inżynierskie pomiaru)
 
 - Skoro wsparcie rozkładu to {0.95, 0.99, 1.0}, każdy próg poniżej 0.95 (np. typowe
@@ -327,4 +352,5 @@ mediany 1.11 s (C1) / 0.80 s (C3). Model: ten sam qwen3.8-27b z myśleniem włą
 - `analyze_conf.py` - wszystkie tabele i metryki z tego dokumentu
 - `judge_conf.py`, `results_judge.jsonl` - Wynik 4 (drugi przebieg jako sędzia)
 - `run_conf_openai.py`, `results_qwen38.jsonl` - Wynik 5 (qwen3.8-27b przez endpoint OpenAI-compatible)
-- `statements_tier4.json`, `run_tier4.py`, `results_tier4_openai.jsonl` - Wynik 6 (zestaw tier-4)
+- `statements_tier4.json`, `run_tier4.py`, `results_tier4_openai.jsonl`,
+  `results_tier4_ollama.jsonl` - Wynik 6 (zestaw tier-4: qwen3.8 think ON + kontrola qwen3.6 think OFF)
