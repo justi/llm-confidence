@@ -339,8 +339,10 @@ wyniki: `results_tier4_ollama.jsonl`.
   C3 byłyby jeszcze bardziej binarne, a deklaracje C1 jeszcze bardziej powtarzalne.
 - k=10 daje siatkę 11 możliwych frakcji - to też nie jest continuum; różnica polega na tym,
   że te wartości NIOSĄ informację (pochodzą z pomiaru), a nie z autoprezentacji modelu.
-- Ollama nie wystawia logprobów; tam, gdzie API je daje, p(token odpowiedzi) to trzecia
-  droga - pewność odczytana wprost z rozkładu następnego tokena, bez k dodatkowych wywołań.
+- Pomiar szedł wariantem z próbkami; nowsze wersje Ollamy zwracają już także logproby
+  (zweryfikowane 2026-08-28 na 0.32.13: `logprobs: true` w /api/chat). p(token odpowiedzi)
+  to trzecia droga - pewność odczytana wprost z rozkładu następnego tokena, bez k
+  dodatkowych wywołań.
 - n=40 zdań, 3 powtórzenia deklaracji - wystarcza na rząd wielkości efektu (3 wartości
   na 120 odpowiedzi), nie na subtelne porównania między modelami.
 
